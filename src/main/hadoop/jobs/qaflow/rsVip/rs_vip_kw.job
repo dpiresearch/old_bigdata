@@ -1,0 +1,7 @@
+# rs_vip_kw.job
+#
+# This job should be run after search view as search view writes out a file to sv_filtered
+#
+type=command
+command=ssh ${username}@${deployhost} '${deploydir}/bin/rsVip/rsFindAdKeywords.sh -d ${deploydir} -i  ${rsvip_inputdir} -o  ${rsvip_outputdir} -b 1 -a 0'
+

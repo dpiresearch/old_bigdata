@@ -1,0 +1,8 @@
+# runPopularSearchScoreBatchJob.job
+# This job kicks off the batch job that processes the score file
+# and puts the results in the database
+
+type=command
+dependencies=copySearchStatsOut
+command=curl ${run_ps_batch_cmd}
+

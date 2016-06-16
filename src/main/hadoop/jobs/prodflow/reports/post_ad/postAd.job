@@ -1,0 +1,3 @@
+# postAdReport.job
+type=command
+command=${deploydir}/bin/runPostAdReport.sh -a 1 -d ${deploydir} -i ${inputdir} -o ${outputdir} -e ${notify} -m ${message_file}

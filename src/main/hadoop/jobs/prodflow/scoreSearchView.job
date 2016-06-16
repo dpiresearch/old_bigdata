@@ -1,0 +1,5 @@
+# scoreSearchView.job
+type=command
+dependencies=searchview
+command=${deploydir}/bin/calcDecay.sh -b 31 -a 1 -d ${deploydir} -r ${refdir}/ref -i ${inputdir}/popular_search -o ${outputdir}/popular_search
+

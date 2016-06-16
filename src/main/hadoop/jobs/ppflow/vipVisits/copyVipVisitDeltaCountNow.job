@@ -1,0 +1,5 @@
+# copyVipVisitDeltaCount.job
+type=command
+dependencies=dedupeVipVisitCountNow
+command=${pre_command}  ${deploydir}/bin/prodCopyOutputToBatchServer.sh -a 0 -i ${vipvisits_delta_outputdir} -f ${vipvisits_delta_file_now} -u ${username}
+

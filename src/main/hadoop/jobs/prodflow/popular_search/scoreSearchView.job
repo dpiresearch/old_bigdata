@@ -1,0 +1,9 @@
+#
+# scoreSearchView.job
+#
+# Job to score the past X days popularity score
+#
+type=command
+dependencies=searchview
+command=${deploydir}/bin/calcDecay.sh -b 30 -a 1 -d ${deploydir} -r ${refdir} -i ${inputdir}/popular_search -o ${outputdir}/popular_search
+

@@ -1,0 +1,7 @@
+# ingestLogs.job
+type=command
+outputdir=/user/data/bolt/data/qa/tests/data/events
+#command=echo "Ingesting logs"
+command=ssh ${username}@${deployhost} "${deploydir}/bin/qatestDataIngest.sh -o ${vipvisits_ingestdir}"
+
+

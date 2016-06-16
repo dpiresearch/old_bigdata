@@ -1,0 +1,7 @@
+# ingestSanityCheck.job
+#
+# This job checks the existence of input files
+# before executing the pig scripts
+#
+type=command
+command=${deploydir}/bin/ingestSanityCheck.sh -a 1 -i ${ingestdir} -n ${num_hosts} -f false

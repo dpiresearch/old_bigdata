@@ -1,0 +1,5 @@
+# copyPhoneClickDeltaCount.job
+type=command
+dependencies=dedupeClickCount
+command=${pre_command}  ${deploydir}/bin/prodCopyOutputToBatchServer.sh -a 1 -i ${phoneclick_delta_outputdir} -f ${phoneclick_delta_file} -u ${username}
+

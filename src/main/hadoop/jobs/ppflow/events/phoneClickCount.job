@@ -1,0 +1,8 @@
+# phoneClickCount.job
+#
+# This job calculates all phone click count events
+# for every ad.
+#
+type=command
+#dependencies=ingestSanityCheck
+command=${deploydir}/bin/events/phoneClickCount.sh -a 1 -d ${deploydir} -i ${phoneclick_inputdir} -c ${phoneclick_oldclicks} -o ${phoneclick_outputdir}

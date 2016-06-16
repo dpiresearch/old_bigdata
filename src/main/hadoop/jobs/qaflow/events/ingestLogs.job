@@ -1,0 +1,5 @@
+# ingestLogs.job
+type=command
+command=ssh ${username}@${deployhost} "${deploydir}/bin/qatestDataIngest.sh -o ${phoneclick_ingestdir}"
+
+

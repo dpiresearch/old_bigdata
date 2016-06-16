@@ -1,0 +1,6 @@
+# copyPhoneClickCount.job
+
+type=command
+dependencies=bestAds
+command=ssh ${username}@${deployhost} '${deploydir}/bin/qaCopyFileToBatchServer.sh -a 1 -i ${bestads_outputdir} -u ${username} -f ${bestads_file}'
+

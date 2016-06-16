@@ -1,0 +1,15 @@
+#
+# scoreSearchView.job
+#
+type=command
+dependencies=rs_vip_kw
+#
+# Production command
+# This should be increased to 90 as we collect more data
+#
+command=${deploydir}/bin/rsVip/calcRsDecay.sh -b 1 -a 1 -d ${deploydir} -r ${refdir} -i  ${rsvip_inputdir} -o  ${rsvip_outputdir}
+
+
+# Test command
+#command=${deploydir}/bin/rsVip/calcRsDecay.sh -b 1 -a 2 -d ${deploydir} -r ${refdir} -i  ${rsvip_inputdir} -o  ${rsvip_outputdir}
+

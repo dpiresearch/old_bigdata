@@ -1,0 +1,8 @@
+# copyAggVip.job
+# This job copies the aggregated vip hits and puts it
+# in the batch pool to be processed by a batch job
+
+type=command
+dependencies=dedupeAggVip
+command=${deploydir}/bin/aggVip/prodCopyAggVipResults.sh -a 1 -i ${agg_int_delta_outputdir}
+

@@ -1,0 +1,11 @@
+# runSearchStatsBatchJob.job
+# This job kicks off the batch job that processes the search count and number of listings
+# results and puts the results in the database
+# Parameterize domain for curl command
+type=command
+dependencies=runPopularSearchScoreBatchJob
+#command=echo "Running batch job to augment keyword_search_stats with search count and number of listings"
+#command=echo "Running batch job to populate keyword_search_stats table";wget "http://www.ibazar.com.staging.qa-bolt.com/batch/batch-api/KeywordStatsResultsJobRunner"
+command=echo "Running batch job to populate keyword_search_stats table";curl "http://www.ibazar.com.staging.qa-bolt.com/batch/batch-api/KeywordStatsResultsJobRunner"
+
+

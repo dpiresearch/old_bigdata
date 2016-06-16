@@ -1,0 +1,10 @@
+# rsVipBatchJob.job
+# 
+# This runs the batch job which pulls the related searches for vip info
+# and persists it into Mongo
+#
+# Parameterize domain for curl command
+type=command
+dependencies=copyRsVipOut
+command=curl ${run_rs_vip_batch_cmd}
+

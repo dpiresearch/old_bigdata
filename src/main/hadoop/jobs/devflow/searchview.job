@@ -1,0 +1,7 @@
+# searchview.job
+# This job kicks off the search view shell script
+# for the previous day (GMT) for the dev data set
+type=command
+dependencies=ingestLogs
+command=ssh dapang@193.105.25.195 "ssh dapang@bo-qanamenode001 '~bolt/qa/current/bin/calcSearchAdKwCount.sh -b 1 -a 0 -d ~bolt/qa/current/pig -o /user/data/bolt/data/dev/tests/data/popular_search -i /user/data/bolt/data/dev/tests/data'"
+

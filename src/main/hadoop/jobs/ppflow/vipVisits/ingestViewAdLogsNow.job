@@ -1,0 +1,4 @@
+# ingestLogs.job
+type=command
+command=${pre_command} ${deploydir}/bin/viewad/prodViewAdDataIngestNow.sh -o${ingestdir} -s${vip_stagingdir} -n${numhosts} -r ${roothost}
+

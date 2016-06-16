@@ -1,0 +1,6 @@
+# dummy.job
+# sample dummy job to onboard and experiment with
+#
+type=command
+command=echo "hello"
+

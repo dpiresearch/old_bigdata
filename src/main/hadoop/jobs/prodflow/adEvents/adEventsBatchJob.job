@@ -1,0 +1,8 @@
+# adEventsBatchJob.job
+# This job kicks off the batch job that processes the ad Events csv files
+# and puts the results in the database
+
+type=command
+dependencies=copyAdEventsResultsOut
+command=curl ${run_ad_events_batch_cmd}
+

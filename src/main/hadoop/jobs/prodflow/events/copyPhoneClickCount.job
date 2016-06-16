@@ -1,0 +1,5 @@
+# copyPhoneClickCount.job
+type=command
+dependencies=phoneClickCount
+command=${pre_command}  ${deploydir}/bin/prodCopyOutputToBatchServer.sh -a 1 -i ${phoneclick_outputdir} -f ${phoneclick_file} -u ${username}
+

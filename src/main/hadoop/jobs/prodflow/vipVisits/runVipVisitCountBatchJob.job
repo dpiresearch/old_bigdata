@@ -1,0 +1,8 @@
+# runVipVisitCountBatchJob.job
+# This job kicks off the batch job that processes to update vip visit counts
+# into the DB (ad_staticstics)
+
+type=command
+dependencies=copyVipVisitCount
+command=curl ${vipvisits_batch_cmd}
+

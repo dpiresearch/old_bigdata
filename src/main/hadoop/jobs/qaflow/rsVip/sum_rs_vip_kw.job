@@ -1,0 +1,8 @@
+# sum_rs_vip.job
+# This job kicks off the score summation shell script
+# for the previous day (GMT) for related searches for vip
+
+type=command
+dependencies=score_rs_vip_kw
+command=ssh ${username}@${deployhost} '${deploydir}/bin/rsVip/sumRsVipScores.sh -a 0 -d ${deploydir} -o ${rsvip_outputdir} -i ${rsvip_inputdir}'
+

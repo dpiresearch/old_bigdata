@@ -1,0 +1,3 @@
+# ReplyLog.job
+type=command
+command=${deploydir}/bin/reply_ad/aggReplyAdLog.sh -i ${inputdir} -o ${outputdir} -r ${refdir} -d ${deploydir} -c ${cat_file} -l ${loc_file} -a 1 -f replylog_PP_ 

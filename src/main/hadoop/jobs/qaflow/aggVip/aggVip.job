@@ -1,0 +1,5 @@
+# scoreSearchView.job
+type=command
+dependencies=ingestLogs
+command=ssh ${username}@${deployhost} '${deploydir}/bin/aggVip/aggVip.sh -d ${deploydir} -i  ${agginputdir} -o  ${agg_int_outputdir}'
+

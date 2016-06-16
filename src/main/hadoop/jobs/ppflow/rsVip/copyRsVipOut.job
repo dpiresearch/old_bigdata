@@ -1,0 +1,12 @@
+# copyRsVipOut.job
+# This job copies the related search vip keywrods out of hdfs and puts it
+# in the batch pool to be processed by a batch job
+#
+type=command
+dependencies=sum_rs_vip_kw
+# Production command
+command=${pre_command} ${deploydir}/bin/rsVip/prodCopyRelatedSearchVipOut.sh -a 1 -i ${rsvip_inputdir}
+
+# Test command
+#command=${pre_command} ${deploydir}/bin/rsVip/prodCopyRelatedSearchVipOut.sh -a 2 -i ${rsvip_inputdir}
+

@@ -1,0 +1,5 @@
+# scoreSearchView.job
+type=command
+dependencies=searchview
+command=ssh dapang@193.105.25.195 "ssh dapang@bo-qanamenode001 '~bolt/qa/current/bin/calcDecay.sh -b 1 -a 0 -d ~bolt/qa/current/pig -i  /user/data/bolt/data/dev/tests/data/popular_search -o  /user/data/bolt/data/dev/tests/data/popular_search'"
+

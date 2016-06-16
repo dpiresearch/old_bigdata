@@ -1,0 +1,8 @@
+# ingestLogs.job 
+type=command
+inputdir=/user/data/bolt/data/qa/tests/data
+outputdir=/user/data/bolt/data/qa/tests/data
+#command=echo "Ingesting logs"
+command=ssh csandiri@bo-qanamenode001 "~bolt/qa/current/bin/qatestDataIngest.sh"
+
+

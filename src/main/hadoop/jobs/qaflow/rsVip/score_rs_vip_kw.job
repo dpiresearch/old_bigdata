@@ -1,0 +1,5 @@
+# scoreSearchView.job
+type=command
+dependencies=rs_vip_kw
+command=ssh ${username}@${deployhost} '${deploydir}/bin/rsVip/calcRsDecay.sh -b 1 -a 0 -d ${deploydir} -r ${refdir} -i  ${rsvip_inputdir} -o  ${rsvip_outputdir}'
+

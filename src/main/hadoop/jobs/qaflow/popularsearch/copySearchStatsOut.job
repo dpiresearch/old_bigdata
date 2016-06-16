@@ -1,0 +1,11 @@
+# copySearchStatsOut.job
+# This job copies the search count and num listings out of hdfs and puts it
+# in the batch pool to be processed by a batch job
+# TODO Parameterize
+#      deploy dir
+#      hdfs dir to retrieve data
+type=command
+dependencies=allSearchWords,copiedLogsSumSearchView
+command=ssh ${username}@${deployhost} '${deploydir}/bin/qaCopyAllResults.sh -a 0 -i ${inputdir}/popular_search '
+#command=echo "Copy search count and number of listings to batch pool"
+

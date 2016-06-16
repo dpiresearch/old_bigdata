@@ -1,0 +1,7 @@
+# copyAggVip.job
+# This job copies the aggregated vip counts out of hdfs and puts it
+# in the batch pool to be processed by a batch job
+
+type=command
+dependencies=aggVip
+command=ssh ${username}@${deployhost} '${deploydir}/bin/aggVip/devCopyCompareAggVipResults.sh -a 0 -f dev_agg_vip.csv -i ${agg_int_outputdir}'

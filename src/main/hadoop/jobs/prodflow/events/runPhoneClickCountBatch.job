@@ -1,0 +1,7 @@
+# runPhoneClickCountBatch.job
+# This job kicks off application Quartz batch job
+# which updates phoneclick counts in ad_statistics table
+
+type=command
+dependencies=copyPhoneClickCount
+command=curl ${phoneclick_batch_cmd}

@@ -1,0 +1,9 @@
+# runSearchStatsBatchJob.job
+# This job kicks off the batch job that processes the search count and number of listings
+# results and puts the results in the database
+# Parameterize domain for curl command
+type=command
+dependencies=runPopularSearchScoreBatchJob
+command=curl ${run_results_batch_cmd}
+
+

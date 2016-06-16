@@ -1,0 +1,5 @@
+# copyVipVisitCount.job
+type=command
+dependencies=bestAds
+command=${pre_command} ${deploydir}/bin/prodCopyOutputToBatchServer.sh -a 1 -i ${bestads_outputdir} -f ${bestads_file} -u ${username}
+

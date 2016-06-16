@@ -1,0 +1,6 @@
+# ingestLogs.job 
+type=command
+#command=echo "Ingesting logs"
+command=ssh dapang@193.105.25.195 "ssh dapang@bo-qanamenode001 '~bolt/qa/current/bin/qatestDataIngest.sh'"
+
+

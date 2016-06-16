@@ -1,0 +1,5 @@
+# copyResultsOut.job
+type=command
+dependencies=adEvents
+command=${pre_command} ${deploydir}/bin/adEvent/prodCopyAdEventsResultsOut.sh -i ${ad_events_output_dir}
+

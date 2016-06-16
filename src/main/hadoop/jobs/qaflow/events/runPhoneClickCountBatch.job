@@ -1,0 +1,8 @@
+# runPhoneClickCountBatch.job
+# This job kicks off the batch job which updates ad phone clicks counts
+# into the DB (ad_staticstics)
+
+type=command
+dependencies=copyPhoneClickCount
+command=curl ${phoneclick_batch_cmd}
+

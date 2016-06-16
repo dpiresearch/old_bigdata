@@ -1,0 +1,7 @@
+#
+# aggregate scores up category and location tree
+#
+
+type=command
+dependencies=blacklist
+command=${deploydir}/bin/aggScores.sh -i ${outputdir}/popular_search -a 1 -o ${outputdir}/popular_search -r ${refdir} -l ${location_file} -c ${category_file} -d ${deploydir}

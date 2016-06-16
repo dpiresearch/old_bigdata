@@ -1,0 +1,3 @@
+# saveAd.job
+type=command
+command=${deploydir}/bin/reports/runSaveAdReport.sh -a 7 -b 7 -d ${deploydir} -i ${inputdir} -o ${outputdir} -e ${notify} -m ${message_file}

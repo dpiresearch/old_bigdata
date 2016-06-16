@@ -1,0 +1,10 @@
+#
+# sumSearchView.job
+#
+# This job kicks off the score summation shell script
+# for the previous day (GMT) for the dev data set
+#
+type=command
+dependencies=scoreSearchView
+command=${deploydir}/bin/sumScores.sh -a 1 -d ${deploydir} -o ${outputdir}/popular_search -i ${inputdir}/popular_search
+

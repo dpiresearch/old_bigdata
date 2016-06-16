@@ -1,0 +1,8 @@
+# searchview.job
+# This job kicks off the search view shell script
+# for the previous day (GMT) for the dev data set
+type=command
+dependencies=ingestLogs
+# command=ssh csandiri@bo-qanamenode001 '~bolt/qa/current/bin/calcSearchAdKwCount.sh -b 1 -a 0 -d ~bolt/qa/current/pig -o ${outputdir}/popular_search -i ${inputdir}'
+command=${deploydir}/bin/calcSearchAdKwCount.sh -b 1 -a 1 -d ${deploydir} -o ${outputdir}/popular_search -i ${inputdir}
+

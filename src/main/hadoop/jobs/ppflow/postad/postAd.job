@@ -1,0 +1,5 @@
+# postAd.job
+type=command
+command=${deploydir}/bin/postad/adObjects.sh -d ${deploydir} -i ${input_dir} -o ${output_dir} -r ${refdir} -l ${loc_file} -c ${cat_file}
+
+

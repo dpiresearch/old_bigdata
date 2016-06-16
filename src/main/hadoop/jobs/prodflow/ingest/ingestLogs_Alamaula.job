@@ -1,0 +1,4 @@
+# ingestLogs.job 
+type=command
+command=${deploydir}/bin/prodDataIngestGen_Alamaula.sh
+

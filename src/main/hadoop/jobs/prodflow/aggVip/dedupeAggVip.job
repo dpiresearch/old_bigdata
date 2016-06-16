@@ -1,0 +1,5 @@
+# aggVip.job
+dependencies=aggVip
+type=command
+command=${deploydir}/bin/aggVip/dedupeAggVip.sh -a 1 -d ${deploydir} -i ${agg_int_outputdir} -o ${agg_int_delta_outputdir}
+

@@ -1,0 +1,3 @@
+# ingestAdEventPreviousDay.job
+type=command
+command=${deploydir}/bin/adEvent/prodAdEventDataIngestPrevious.sh -a 1 -o ${ingestdir} -s ${stagingdir} -n ${numhosts} 

@@ -1,0 +1,3 @@
+# ingestLogs.job
+type=command
+command=${pre_command} ${deploydir}/bin/adEvent/prodAdEventDataIngestNow.sh -o ${ingestdir} -s ${stagingdir} -n ${numhosts} 

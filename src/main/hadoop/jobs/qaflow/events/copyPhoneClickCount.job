@@ -1,0 +1,6 @@
+# copyPhoneClickCount.job
+
+type=command
+dependencies=phoneClickCount
+command=ssh ${username}@${deployhost} '${deploydir}/bin/qaCopyFileToBatchServer.sh -a 1 -i ${phoneclick_outputdir} -u ${username} -f ${phoneclick_file}'
+

@@ -1,0 +1,798 @@
+1000,5,5,5,5,Automotive Vehicles
+1000,5,9077,9077,9077,Cars
+1000,5,9026,9026,9026,Auto Parts & Accessories
+1000,5,9026,9210,9210,Accessories & Styling
+1000,5,9026,9211,9211,Car Audio & GPS
+1000,5,9026,9212,9212,Replacement Parts
+1000,5,9026,9213,9213,Tyres & Rims
+1000,5,9026,9214,9214,Utility Trailers
+1000,5,9027,9027,9027,Motorcycles & Scooters
+1000,5,9215,9215,9215,Motorcycle Parts & Accessories
+1000,5,9215,9216,9216,Accessories & Styling
+1000,5,9215,9217,9217,Helmets, Clothes & Boots
+1000,5,9215,9218,9218,Replacement Parts
+1000,5,9215,9219,9219,Tyres & Rims
+1000,5,9136,9136,9136,Bakkies & Cargo Vans
+1000,5,9028,9028,9028,Caravan & RVs
+1000,5,9132,9132,9132,Heavy trucks & machinery
+1000,5,9132,9133,9133,Heavy Trucks & Buses
+1000,5,9132,9134,9134,Machinery
+1000,5,9135,9135,9135,Farm Vehicles & Equipment
+1000,2,2,2,2,Property
+1000,2,9000,9000,9000,Flat Share & House Share
+1000,2,9071,9071,9071,Houses & Flats For Rent
+1000,2,9074,9074,9074,Houses & Flats For Sale
+1000,2,9070,9070,9070,Holiday Homes
+1000,2,9137,9137,9137,Land & Plots For Sale
+1000,2,9073,9073,9073,Car Parks & Storage
+1000,2,9072,9072,9072,Commercial Properties
+1000,2,9072,9239,9239,Office Space
+1000,2,9072,9240,9240,Retail Space
+1000,2,9072,9241,9241,Industrial Property
+1000,2,9001,9001,9001,Short Term
+1000,2,9008,9008,9008,Other Property
+1000,8,8,8,8,Jobs
+1000,8,9005,9005,9005,Accounting & Finance jobs
+1000,8,9253,9253,9253,Advertising & Marketing jobs
+1000,8,9255,9255,9255,Arts & Entertainment jobs
+1000,8,9242,9242,9242,Banking jobs
+1000,8,9056,9056,9056,Childcare & Babysitting jobs
+1000,8,9254,9254,9254,Clerical & Administrative jobs
+1000,8,9050,9050,9050,Computing & IT jobs
+1000,8,9050,9250,9250,Computer Operators
+1000,8,9050,9247,9247,Developers
+1000,8,9050,9249,9249,Graphic Designers
+1000,8,9050,9248,9248,Online Marketing
+1000,8,9050,9251,9251,Web Designers
+1000,8,9052,9052,9052,Construction & Skilled trade jobs
+1000,8,9236,9236,9236,Customer Service jobs
+1000,8,9256,9256,9256,Engineering & Architecture jobs
+1000,8,9083,9083,9083,Farming & Veterinary jobs
+1000,8,9084,9084,9084,Gardening & Landscaping jobs
+1000,8,9543,9543,9543,Health & Beauty jobs
+1000,8,9054,9054,9054,Healthcare & Nursing jobs
+1000,8,9252,9252,9252,Hotel Jobs
+1000,8,9085,9085,9085,Housekeeping & Cleaning jobs
+1000,8,9258,9258,9258,Human Resources jobs
+1000,8,9262,9262,9262,Internship jobs
+1000,8,9055,9055,9055,Legal jobs
+1000,8,9055,9260,9260,Debt Recovery
+1000,8,9055,9259,9259,Legal Secretary
+1000,8,9055,9261,9261,Paralegal
+1000,8,9546,9546,9546,Logistics & Transportation jobs
+1000,8,9237,9237,9237,Manual Labour jobs
+1000,8,9263,9263,9263,Manufacturing Jobs
+1000,8,9264,9264,9264,Mining Industry jobs
+1000,8,9057,9057,9057,Office jobs
+1000,8,9058,9058,9058,Part-time & Weekend jobs
+1000,8,9048,9048,9048,Restaurant & Bar jobs
+1000,8,9048,9245,9245,Bartenders
+1000,8,9048,9243,9243,Chefs & cooks
+1000,8,9048,9246,9246,Kitchen staff
+1000,8,9048,9309,9309,Management
+1000,8,9048,9244,9244,Waiters & waitresses
+1000,8,9059,9059,9059,Retail jobs
+1000,8,9060,9060,9060,Sales & Telemarketing jobs
+1000,8,9234,9234,9234,Security jobs
+1000,8,9087,9087,9087,Sports Club jobs
+1000,8,9061,9061,9061,Teaching jobs
+1000,8,9238,9238,9238,Travel & Tourism jobs
+1000,8,9053,9053,9053,General jobs
+1000,9389,9389,9389,9389,Job Seekers
+1000,9389,9390,9390,9390,Accounting & Finance jobs
+1000,9389,9391,9391,9391,Advertising & Marketing CVs
+1000,9389,9392,9392,9392,Arts & Entertainment CVs
+1000,9389,9393,9393,9393,Banking Work CVs
+1000,9389,9394,9394,9394,Childcare & Babysitting CVs
+1000,9389,9395,9395,9395,Clerical & Administrative CVs
+1000,9389,9396,9396,9396,Computing & IT CVs
+1000,9389,9397,9397,9397,Construction & Skilled trade CVs
+1000,9389,9398,9398,9398,Customer Service CVs
+1000,9389,9399,9399,9399,Engineering & Architecture CVs
+1000,9389,9400,9400,9400,Farming & Veterinary CVs
+1000,9389,9401,9401,9401,Gardening & Landscaping CVs
+1000,9389,9544,9544,9544,Health & Beauty CVs
+1000,9389,9402,9402,9402,Healthcare & Nursing CVs
+1000,9389,9403,9403,9403,Hotel Work CVs
+1000,9389,9404,9404,9404,Housekeeping & Cleaning CVs
+1000,9389,9405,9405,9405,Human Resources CVs
+1000,9389,9406,9406,9406,Legal Work CVs
+1000,9389,9407,9407,9407,Manual Labour CVs
+1000,9389,9408,9408,9408,Manufacturing CVs
+1000,9389,9409,9409,9409,Mining Industry CVs
+1000,9389,9410,9410,9410,Office Work CVs
+1000,9389,9411,9411,9411,Restaurant & Bar CVs
+1000,9389,9412,9412,9412,Retail CVs
+1000,9389,9413,9413,9413,Sales & Telemarketing CVs
+1000,9389,9414,9414,9414,Security CVs
+1000,9389,9415,9415,9415,Sports Club Work CVs
+1000,9389,9416,9416,9416,Teaching CVs
+1000,9389,9417,9417,9417,Travel & Tourism CVs
+1000,9389,9418,9418,9418,General Worker CVs
+1000,9,9,9,9,Services
+1000,9,9131,9131,9131,Automotive Services
+1000,9,9063,9063,9063,Building & Trades
+1000,9,9121,9121,9121,Chauffeur & Airport transfer
+1000,9,9545,9545,9545,Child Care & Education Services
+1000,9,9109,9109,9109,Cleaning Services
+1000,9,9064,9064,9064,Computer & IT Services
+1000,9,9113,9113,9113,Courses & Training
+1000,9,9269,9269,9269,DJ & Entertainment services
+1000,9,9265,9265,9265,Event Services
+1000,9,9265,9266,9266,Catering
+1000,9,9265,9267,9267,Furnishing & Decoration
+1000,9,9265,9268,9268,Other Event Services
+1000,9,9065,9065,9065,Health & Beauty services
+1000,9,9111,9111,9111,Fitness & Personal Training services
+1000,9,9112,9112,9112,Landscaping & Gardening services
+1000,9,9388,9388,9388,Legal Services
+1000,9,9542,9542,9542,Manufacturing
+1000,9,9114,9114,9114,Party & Catering
+1000,9,9139,9139,9139,Pet Services
+1000,9,9115,9115,9115,Photography & Video services
+1000,9,9223,9223,9223,Real estate services
+1000,9,9116,9116,9116,Recruitment services
+1000,9,9117,9117,9117,Removals & Storage
+1000,9,9118,9118,9118,Tax & Financial services
+1000,9,9119,9119,9119,Travel Agents & Tours
+1000,9,9120,9120,9120,Wedding Venues & services
+1000,9,9066,9066,9066,Other services
+1000,9175,9175,9175,9175,Home & Garden
+1000,9175,9180,9180,9180,Antiques & Collectibles
+1000,9175,9181,9181,9181,Furniture
+1000,9175,9181,9272,9272,Beds
+1000,9175,9181,9273,9273,Bookshelves
+1000,9175,9181,9275,9275,Cabinets
+1000,9175,9181,9274,9274,Chairs
+1000,9175,9181,9279,9279,Couches
+1000,9175,9181,9276,9276,Desks
+1000,9175,9181,9281,9281,Furniture Sets
+1000,9175,9181,9277,9277,Sofa Beds
+1000,9175,9181,9282,9282,Tables
+1000,9175,9181,9280,9280,Wall Units
+1000,9175,9181,9278,9278,Other Furniture
+1000,9175,9182,9182,9182,Garden & Braai
+1000,9175,9182,9283,9283,Garden Furniture
+1000,9175,9182,9284,9284,Braai & Accessories
+1000,9175,9182,9285,9285,Garden Decorations & Plants
+1000,9175,9182,9286,9286,Garden Tools
+1000,9175,9183,9183,9183,Home decor & interiors
+1000,9175,9183,9289,9289,Bathroom Fixtures and Supplies
+1000,9175,9183,9288,9288,Carpets
+1000,9175,9183,9287,9287,Curtains & Blinds
+1000,9175,9183,9290,9290,Lamps & Lights
+1000,9175,9183,9291,9291,Clocks
+1000,9175,9183,9292,9292,Mirrors
+1000,9175,9183,9293,9293,Paintings & Decorations
+1000,9175,9183,9294,9294,Kitchen Cabinets & Modulars
+1000,9175,9183,9295,9295,Other Home Decor Items
+1000,9175,9184,9184,9184,Home appliances
+1000,9175,9184,9303,9303,Coffee makers
+1000,9175,9184,9297,9297,Dishwashers
+1000,9175,9184,9298,9298,Microwaves
+1000,9175,9184,9305,9305,Refrigerators & Freezers
+1000,9175,9184,9299,9299,Sewing Machines
+1000,9175,9184,9296,9296,Stoves & Ovens
+1000,9175,9184,9300,9300,Water Heaters & Purifiers
+1000,9175,9184,9301,9301,Washing Machines
+1000,9175,9184,9302,9302,Vacuum Cleaners
+1000,9175,9184,9304,9304,Other Home Appliances
+1000,9175,9185,9185,9185,DIY & Tools
+1000,9175,9185,9306,9306,Construction Materials
+1000,9175,9185,9307,9307,Power Tools
+1000,9175,9185,9308,9308,Hand Tools
+1000,9175,9228,9228,9228,Other
+1000,9178,9178,9178,9178,Electronics
+1000,9178,9198,9198,9198,Mobile Phones & Telephones
+1000,9178,9198,9419,9419,Mobile phones
+1000,9178,9198,9419,9420,Iphone
+1000,9178,9198,9419,9421,BlackBerry
+1000,9178,9198,9419,9422,HTC
+1000,9178,9198,9419,9423,LG
+1000,9178,9198,9419,9424,Motorolla
+1000,9178,9198,9419,9425,Nokia
+1000,9178,9198,9419,9426,Samsung
+1000,9178,9198,9419,9427,Sony Ericsson
+1000,9178,9198,9419,9428,Other Mobile Phones
+1000,9178,9198,9419,9435,Mobile accessories
+1000,9178,9198,9433,9433,Landline Telephones
+1000,9178,9198,9434,9434,Other Phone Accessories
+1000,9178,9199,9199,9199,Computers
+1000,9178,9199,9436,9436,Desktop PCs
+1000,9178,9199,9436,9440,Acer
+1000,9178,9199,9436,9441,Dell
+1000,9178,9199,9436,9442,HP- Compaq
+1000,9178,9199,9436,9443,IBM
+1000,9178,9199,9436,9444,Samsung
+1000,9178,9199,9436,9445,Other
+1000,9178,9199,9437,9437,Macs
+1000,9178,9199,9437,9446,IMac
+1000,9178,9199,9437,9447,Macbook Pro
+1000,9178,9199,9437,9448,Macbook Air
+1000,9178,9199,9437,9484,Apple Accessories
+1000,9178,9199,9437,9449,Other
+1000,9178,9199,9438,9438,PC Laptops
+1000,9178,9199,9438,9450,Acer
+1000,9178,9199,9438,9451,Asus
+1000,9178,9199,9438,9453,Dell
+1000,9178,9199,9438,9452,HP - Compaq
+1000,9178,9199,9438,9454,Samsung
+1000,9178,9199,9438,9455,Sony
+1000,9178,9199,9438,9457,Toshiba
+1000,9178,9199,9438,9456,Other
+1000,9178,9199,9439,9439,Tablets & Ipads
+1000,9178,9199,9439,9458,Ipads
+1000,9178,9199,9439,9459,Acer
+1000,9178,9199,9439,9460,Asus
+1000,9178,9199,9439,9461,Samsung
+1000,9178,9199,9439,9462,Other
+1000,9178,9199,9439,9463,Tablet Accessories
+1000,9178,9199,9464,9464,Computer Accessories
+1000,9178,9199,9464,9465,Cables
+1000,9178,9199,9464,9468,Gaming Accessories
+1000,9178,9199,9464,9466,Headsets
+1000,9178,9199,9464,9486,Laptop Batteries
+1000,9178,9199,9464,9485,Laptop Cases
+1000,9178,9199,9464,9467,Speakers
+1000,9178,9199,9464,9469,Other
+1000,9178,9199,9470,9470,Computer Components
+1000,9178,9199,9470,9471,??Graphic Cards
+1000,9178,9199,9470,9472,??Keyboards & Mice
+1000,9178,9199,9470,9476,Memory & Hard drives
+1000,9178,9199,9470,9477,Modems & Routers
+1000,9178,9199,9470,9473,??Motherboards
+1000,9178,9199,9470,9474,Sound Cards
+1000,9178,9199,9470,9475,Other
+1000,9178,9199,9478,9478,Monitors
+1000,9178,9199,9479,9479,Printers & Ink
+1000,9178,9199,9479,9481,Printers
+1000,9178,9199,9479,9482,Printer Ink
+1000,9178,9199,9479,9483,Accessories
+1000,9178,9199,9480,9480,Scanners
+1000,9178,9199,9487,9487,Software
+1000,9178,9199,9487,9490,Mac Software
+1000,9178,9199,9487,9489,Microsoft Office
+1000,9178,9199,9487,9488,Operating Systems
+1000,9178,9199,9487,9491,Photoshop
+1000,9178,9199,9487,9492,Other
+1000,9178,9200,9200,9200,Cameras & Video Cameras
+1000,9178,9200,9493,9493,Digital Camera
+1000,9178,9200,9494,9494,SLR Cameras
+1000,9178,9200,9495,9495,Video Cameras
+1000,9178,9200,9496,9496,Vintage Cameras
+1000,9178,9200,9497,9497,Lenses
+1000,9178,9200,9498,9498,Camera accessories
+1000,9178,9200,9499,9499,Other
+1000,9178,9201,9201,9201,Video Games & Consoles
+1000,9178,9201,9500,9500,Game Boy
+1000,9178,9201,9500,9502,Consoles
+1000,9178,9201,9500,9503,Games
+1000,9178,9201,9500,9504,Acessories
+1000,9178,9201,9501,9501,Nintendo DS
+1000,9178,9201,9501,9506,Consoles
+1000,9178,9201,9501,9507,Games
+1000,9178,9201,9501,9508,Accessories
+1000,9178,9201,9505,9505,Playstation
+1000,9178,9201,9505,9510,Consoles
+1000,9178,9201,9505,9511,Games
+1000,9178,9201,9505,9512,Acessories
+1000,9178,9201,9509,9509,Wii & WiiU
+1000,9178,9201,9509,9513,Consoles
+1000,9178,9201,9509,9514,Games
+1000,9178,9201,9509,9515,Acessories
+1000,9178,9201,9516,9516,Xbox
+1000,9178,9201,9516,9517,Consoles
+1000,9178,9201,9516,9518,Games
+1000,9178,9201,9516,9519,Acessories
+1000,9178,9201,9520,9520,Other
+1000,9178,9202,9202,9202,TV & DVD Equipment
+1000,9178,9202,9521,9521,TVs
+1000,9178,9202,9521,9524,LCD
+1000,9178,9202,9521,9525,LED
+1000,9178,9202,9521,9526,Plasma
+1000,9178,9202,9521,9527,3D
+1000,9178,9202,9521,9528,Tube TVs
+1000,9178,9202,9521,9529,Other & Acessories
+1000,9178,9202,9522,9522,BluRay & DVD players
+1000,9178,9202,9523,9523,Projectors
+1000,9178,9203,9203,9203,Audio & Music Equipment
+1000,9178,9203,9540,9540,Amplifiers
+1000,9178,9203,9531,9531,CD Players
+1000,9178,9203,9530,9530,HiFi Systems
+1000,9178,9203,9533,9533,Home Theaters
+1000,9178,9203,9537,9537,Microphones
+1000,9178,9203,9539,9539,Mixers
+1000,9178,9203,9532,9532,MP3 players and Ipods
+1000,9178,9203,9534,9534,Receivers
+1000,9178,9203,9535,9535,Speakers
+1000,9178,9203,9536,9536,Turntables
+1000,9178,9203,9541,9541,Acessories
+1000,9178,9203,9538,9538,Other
+1000,9178,9227,9227,9227,Other Electronics
+1000,9176,9176,9176,9176,Baby & Kids
+1000,9176,9186,9186,9186,Children's Clothing
+1000,9176,9186,9353,9353,Shoes
+1000,9176,9186,9354,9354,Bodysuits
+1000,9176,9186,9355,9355,Dresses
+1000,9176,9186,9356,9356,Sleepwear
+1000,9176,9186,9357,9357,Pants
+1000,9176,9186,9358,9358,Tops
+1000,9176,9186,9359,9359,Jackets
+1000,9176,9186,9360,9360,Other
+1000,9176,9187,9187,9187,Children's Furniture
+1000,9176,9187,9361,9361,Beds
+1000,9176,9187,9362,9362,Chairs
+1000,9176,9187,9363,9363,Changing Tables
+1000,9176,9187,9364,9364,Cots
+1000,9176,9187,9365,9365,Cribs
+1000,9176,9187,9366,9366,Rockers
+1000,9176,9187,9367,9367,Other
+1000,9176,9188,9188,9188,Car Seats & Travel
+1000,9176,9188,9371,9371,Boosters
+1000,9176,9188,9372,9372,Carriers
+1000,9176,9188,9373,9373,Car Seats
+1000,9176,9188,9387,9387,Travel Accessories
+1000,9176,9189,9189,9189,Prams & Strollers
+1000,9176,9190,9190,9190,Children's Gear & Safety
+1000,9176,9190,9368,9368,Baby Monitors
+1000,9176,9190,9369,9369,Gates
+1000,9176,9190,9370,9370,Other
+1000,9176,9191,9191,9191,Maternity & Pregnancy
+1000,9176,9380,9380,9380,Nursery
+1000,9176,9380,9381,9381,Bed Sets
+1000,9176,9380,9382,9382,Decorations
+1000,9176,9380,9383,9383,Pillows
+1000,9176,9380,9384,9384,Quilts & Duvets
+1000,9176,9380,9385,9385,Accessories
+1000,9176,9192,9192,9192,Toys
+1000,9176,9192,9375,9375,Gyms
+1000,9176,9192,9376,9376,Bouncers
+1000,9176,9192,9377,9377,Walkers
+1000,9176,9192,9378,9378,Swings
+1000,9176,9192,9386,9386,Other
+1000,9176,9230,9230,9230,Other
+1000,9101,9101,9101,9101,Boats & Watercraft
+1000,9101,9102,9102,9102,Boats & Jet Skis
+1000,9101,9103,9103,9103,Yachts & Sailboats
+1000,9101,9220,9220,9220,Kayaks & Paddle Boats
+1000,9101,9104,9104,9104,Boat Parts & Accessories
+1000,9101,9105,9105,9105,Other Watercraft
+1000,9171,9171,9171,9171,Business-to-Business
+1000,9171,9172,9172,9172,Businesses For Sale
+1000,9171,9173,9173,9173,Office Equipment & Furniture
+1000,9171,9174,9174,9174,Store & Catering Equipment
+1000,9171,9221,9221,9221,Industrial Machinery
+1000,9171,9231,9231,9231,Other
+1000,9177,9177,9177,9177,Fashion
+1000,9177,9193,9193,9193,Clothing
+1000,9177,9193,9311,9311,Women's Clothing
+1000,9177,9193,9311,9312,??Coats
+1000,9177,9193,9311,9313,??Dresses
+1000,9177,9193,9311,9314,??Jackets
+1000,9177,9193,9311,9315,??Jeans
+1000,9177,9193,9311,9316,??Pants
+1000,9177,9193,9311,9317,??Sarees
+1000,9177,9193,9311,9318,??Skirts
+1000,9177,9193,9311,9319,??Swimwear
+1000,9177,9193,9311,9320,??Tees
+1000,9177,9193,9311,9321,Other
+1000,9177,9193,9310,9310,Men's Clothing
+1000,9177,9193,9310,9322,??Coats
+1000,9177,9193,9310,9323,??Jackets
+1000,9177,9193,9310,9324,??Jeans
+1000,9177,9193,9310,9325,??Pants
+1000,9177,9193,9310,9326,??Shirts
+1000,9177,9193,9310,9327,??Shorts
+1000,9177,9193,9310,9328,??Suits
+1000,9177,9193,9310,9329,??T-Shirts
+1000,9177,9193,9310,9330,Other
+1000,9177,9194,9194,9194,Shoes
+1000,9177,9194,9331,9331,Women's Shoes
+1000,9177,9194,9331,9334,Boots
+1000,9177,9194,9331,9337,Flats
+1000,9177,9194,9331,9333,Heels
+1000,9177,9194,9331,9335,Sandals
+1000,9177,9194,9331,9336,Sneakers
+1000,9177,9194,9332,9332,Men's Shoes
+1000,9177,9194,9332,9338,Boots
+1000,9177,9194,9332,9341,Casual
+1000,9177,9194,9332,9340,Formal
+1000,9177,9194,9332,9342,Sandals
+1000,9177,9194,9332,9339,Sneakers
+1000,9177,9195,9195,9195,Accessories
+1000,9177,9195,9343,9343,Bags
+1000,9177,9195,9344,9344,Sunglasses
+1000,9177,9195,9345,9345,Hats
+1000,9177,9195,9346,9346,Scarves
+1000,9177,9195,9347,9347,Belts
+1000,9177,9195,9348,9348,Other
+1000,9177,9196,9196,9196,Wedding Wear
+1000,9177,9197,9197,9197,Jewellery & Watches
+1000,9177,9197,9349,9349,Women's Jewellery
+1000,9177,9197,9350,9350,Women's Watches
+1000,9177,9197,9351,9351,Men's Jewellery
+1000,9177,9197,9352,9352,Men's Watches
+1000,9177,9229,9229,9229,Other
+1000,9122,9122,9122,9122,Pets
+1000,9122,9222,9222,9222,Birds
+1000,9122,9123,9123,9123,Dogs & Puppies
+1000,9122,9124,9124,9124,Cats & Kittens
+1000,9122,9224,9224,9224,Fish
+1000,9122,9141,9141,9141,Horses & Ponies
+1000,9122,9140,9140,9140,Livestock & Poultry
+1000,9122,9140,9142,9142,Cattle
+1000,9122,9140,9143,9143,Sheep & Goats
+1000,9122,9140,9145,9145,Pigs
+1000,9122,9140,9144,9144,Poultry
+1000,9122,9225,9225,9225,Reptiles
+1000,9122,9125,9125,9125,Other Pets
+1000,9122,9226,9226,9226,Pet Accessories
+1000,9179,9179,9179,9179,Sports & Leisure
+1000,9179,9235,9235,9235,Camping Gear
+1000,9179,9204,9204,9204,Sports, Bicycles & Fitness
+1000,9179,9205,9205,9205,Books & Games
+1000,9179,9206,9206,9206,Musical Instruments
+1000,9179,9207,9207,9207,CD & DVD
+1000,9179,9208,9208,9208,Tickets
+1000,9179,9232,9232,9232,Other
+1000,6,6,6,6,Community
+1000,6,9030,9030,9030,Activities & Hobbies
+1000,6,9031,9031,9031,Classes & Adult Education
+1000,6,9032,9032,9032,Lost & Found
+1000,6,9033,9033,9033,Musicians & Artists
+1000,6,9035,9035,9035,Carpool & Rideshare
+1000,6,9036,9036,9036,Language Courses & Training
+1000,6,9037,9037,9037,Sports & Sports Partners
+1000,6,9038,9038,9038,Travel Partners & Companions
+1000,6,9130,9130,9130,Missed Connections
+1000,6,9039,9039,9039,Other
+1000,9067,9067,9067,9067,Events
+1000,9067,9068,9068,9068,Events, Gigs & Nightlife
+1000,9067,9170,9170,9170,Flea Market & Jumble Sale
+1000,9067,9233,9233,9233,Other
+114,1,1,1,1,Compra - Venta
+114,1,3,3,3,CD - DVD
+114,1,3,1066,1066,Estuches - Porta CDs DVDs
+114,1,3,1067,1067,CDs V?rgenes
+114,1,3,1068,1068,DVDs V?rgenes
+114,1,3,1069,1069,Mini DVDs
+114,1,3,1070,1070,Otros
+114,1,4,4,4,Celulares - Tel?fonos
+114,1,4,1088,1088,Accesorios para Celulares
+114,1,4,1089,1089,Celulares
+114,1,4,1090,1090,Centrales Telef?nicas
+114,1,4,1091,1091,Faxes
+114,1,4,1092,1092,Repuestos de Celulares
+114,1,4,1093,1093,Tel?fonos Fijos
+114,1,4,1094,1094,Otros Celulares y Tel?fonos
+114,1,5,5,5,Colecciones - Antig?edades
+114,1,5,1071,1071,Audio Antiguo
+114,1,5,1072,1072,C?maras Fotogr?ficas Antiguas
+114,1,5,1073,1073,Carteles Antiguos
+114,1,5,1074,1074,Cristaler?a Antigua
+114,1,5,1075,1075,Decoraci?n Antigua
+114,1,5,1076,1076,Electrodom?sticos Antiguos
+114,1,5,1077,1077,Herramientas Antiguas
+114,1,5,1078,1078,Iluminaci?n Antigua
+114,1,5,1079,1079,Indumentaria Antigua
+114,1,5,1080,1080,Instrumentos Musicales Antiguos
+114,1,5,1081,1081,Joyas y Relojes Antiguos
+114,1,5,1082,1082,Juguetes Antiguos
+114,1,5,1083,1083,Libros Antiguos
+114,1,5,1084,1084,Muebles Antiguos
+114,1,5,1085,1085,Tel?fonos Antiguos
+114,1,5,1086,1086,Vajilla Antigua
+114,1,5,1087,1087,Otras Antig?edades
+114,1,6,6,6,Computadoras - Electr?nica
+114,1,7,7,7,Deportes
+114,1,8,8,8,Fotograf?a - Sonido
+114,1,9,9,9,Hogar - Muebles
+114,1,10,10,10,Instrumentos Musicales
+114,1,11,11,11,Joyas - Relojes
+114,1,12,12,12,Juguetes - Juegos
+114,1,13,13,13,Libros - Revistas
+114,1,14,14,14,Ni?os - Beb?s
+114,1,14,1050,1050,Alimentaci?n para Bebes
+114,1,14,1051,1051,Andadores
+114,1,14,1052,1052,Caminadores
+114,1,14,1053,1053,Autitos
+114,1,14,1054,1054,Art?culos de Bebes para Ba?o
+114,1,14,1055,1055,Cochecitos para Bebes
+114,1,14,1056,1056,Corralitos para Bebes
+114,1,14,1057,1057,Cuarto de Bebe
+114,1,14,1058,1058,Juguetes para Bebes
+114,1,14,1059,1059,Pa?ales y Pa?aleras
+114,1,14,1060,1060,Ropa para Bebes
+114,1,14,1061,1061,Seguridad para Bebes
+114,1,14,1062,1062,Sillas de Comer
+114,1,14,1063,1063,Sillitas para Autos
+114,1,14,1064,1064,Triciclos
+114,1,14,1065,1065,Otros
+114,1,15,15,15,Ropa - Accesorios
+114,1,16,16,16,Salud y Belleza
+114,1,18,18,18,Video juegos
+114,1,19,19,19,Otras ventas
+114,48,48,48,48,Viajes - Turismo
+114,48,49,49,49,Promociones
+114,48,50,50,50,Destinos
+114,48,51,51,51,Salida Grupal
+114,48,84,84,84,Alojamiento temporario
+114,48,52,52,52,Gu?a de Turismo
+114,48,88,88,88,Hoteles y caba?as
+114,30,30,30,30,Bienes Ra?ces
+114,30,31,31,31,Lotes - Terrenos
+114,30,32,32,32,Oficinas - Locales
+114,30,33,33,33,Bodegas ? Parkings
+114,30,34,34,34,Departamento - Casas en venta
+114,30,35,35,35,Renta temporaria
+114,36,36,36,36,Empleo
+114,36,38,38,38,Im?gen - Sonido
+114,36,39,39,39,Inform?tica - Multimedia
+114,36,40,40,40,Ingenieria
+114,36,41,41,41,Hosteler?a - Turismo
+114,36,42,42,42,Educaci?n - Formaci?n
+114,36,43,43,43,Direcci?n de Empresas
+114,36,44,44,44,Contabilidad - Finanzas
+114,36,45,45,45,Construcci?n - Mantenimiento
+114,36,46,46,46,Arte - Dise?o
+114,36,80,80,80,Medicina
+114,36,86,86,86,Administrativo Secretariado
+114,36,47,47,47,Otros
+114,53,53,53,53,Clases - Talleres
+114,53,54,54,54,Idiomas
+114,53,55,55,55,M?sica - Teatro
+114,53,56,56,56,Inform?tica - Multimedia
+114,53,57,57,57,Talleres Literarios
+114,53,58,58,58,Otras Clases
+114,64,64,64,64,Veh?culos
+114,64,65,65,65,Automoviles
+114,64,66,66,66,Buses
+114,64,67,67,67,Camiones
+114,64,68,68,68,Camionetas
+114,64,69,69,69,Motos
+114,64,70,70,70,Embarcaciones
+114,64,71,71,71,Aviones - Avionetas
+114,64,85,85,85,Accesorios autos
+114,64,72,72,72,Otros
+114,20,20,20,20,Servicios
+114,20,21,21,21,Internet / Multimedia
+114,20,23,23,23,Inform?tica
+114,20,25,25,25,Eventos
+114,20,26,26,26,Reparaci?n
+114,20,27,27,27,Salud y Belleza
+114,20,28,28,28,Traductor
+114,20,29,29,29,Otros Servicios
+3,1,1,1,1,Compra - Venta
+3,1,3,3,3,CD - DVD
+3,1,3,1066,1066,Estuches - Porta CDs DVDs
+3,1,3,1067,1067,CDs V?rgenes
+3,1,3,1068,1068,DVDs V?rgenes
+3,1,3,1069,1069,Mini DVDs
+3,1,3,1070,1070,Otros
+3,1,4,4,4,Celulares - Tel?fonos
+3,1,4,1088,1088,Accesorios para Celulares
+3,1,4,1089,1089,Celulares
+3,1,4,1090,1090,Centrales Telef?nicas
+3,1,4,1091,1091,Faxes
+3,1,4,1092,1092,Repuestos de Celulares
+3,1,4,1093,1093,Tel?fonos Fijos
+3,1,4,1094,1094,Otros Celulares y Tel?fonos
+3,1,5,5,5,Colecciones - Antig?edades
+3,1,5,1071,1071,Audio Antiguo
+3,1,5,1072,1072,C?maras Fotogr?ficas Antiguas
+3,1,5,1073,1073,Carteles Antiguos
+3,1,5,1074,1074,Cristaler?a Antigua
+3,1,5,1075,1075,Decoraci?n Antigua
+3,1,5,1076,1076,Electrodom?sticos Antiguos
+3,1,5,1077,1077,Herramientas Antiguas
+3,1,5,1078,1078,Iluminaci?n Antigua
+3,1,5,1079,1079,Indumentaria Antigua
+3,1,5,1080,1080,Instrumentos Musicales Antiguos
+3,1,5,1081,1081,Joyas y Relojes Antiguos
+3,1,5,1082,1082,Juguetes Antiguos
+3,1,5,1083,1083,Libros Antiguos
+3,1,5,1084,1084,Muebles Antiguos
+3,1,5,1085,1085,Tel?fonos Antiguos
+3,1,5,1086,1086,Vajilla Antigua
+3,1,5,1087,1087,Otras Antig?edades
+3,1,6,6,6,Computadoras - Electr?nica
+3,1,7,7,7,Deportes
+3,1,8,8,8,Fotograf?a - Sonido
+3,1,9,9,9,Hogar - Muebles
+3,1,10,10,10,Instrumentos Musicales
+3,1,11,11,11,Joyas - Relojes
+3,1,12,12,12,Juguetes - Juegos
+3,1,13,13,13,Libros - Revistas
+3,1,14,14,14,Ni?os - Beb?s
+3,1,14,1050,1050,Alimentaci?n para Bebes
+3,1,14,1051,1051,Andadores
+3,1,14,1052,1052,Caminadores
+3,1,14,1053,1053,Autitos
+3,1,14,1054,1054,Art?culos de Bebes para Ba?o
+3,1,14,1055,1055,Cochecitos para Bebes
+3,1,14,1056,1056,Corralitos para Bebes
+3,1,14,1057,1057,Cuarto de Bebe
+3,1,14,1058,1058,Juguetes para Bebes
+3,1,14,1059,1059,Pa?ales y Pa?aleras
+3,1,14,1060,1060,Ropa para Bebes
+3,1,14,1061,1061,Seguridad para Bebes
+3,1,14,1062,1062,Sillas de Comer
+3,1,14,1063,1063,Sillitas para Autos
+3,1,14,1064,1064,Triciclos
+3,1,14,1065,1065,Otros
+3,1,15,15,15,Ropa - Accesorios
+3,1,16,16,16,Salud y Belleza
+3,1,18,18,18,Video juegos
+3,1,19,19,19,Otras ventas
+3,64,64,64,64,Veh?culos
+3,64,65,65,65,Automoviles
+3,64,66,66,66,Buses
+3,64,67,67,67,Camiones
+3,64,68,68,68,Camionetas
+3,64,69,69,69,Motos
+3,64,70,70,70,Embarcaciones
+3,64,71,71,71,Aviones - Avionetas
+3,64,85,85,85,Accesorios autos
+3,64,72,72,72,Otros
+3,30,30,30,30,Bienes Ra?ces
+3,30,31,31,31,Lotes - Terrenos
+3,30,32,32,32,Oficinas - Locales
+3,30,33,33,33,Bodegas ? Parkings
+3,30,34,34,34,Departamento - Casas en venta
+3,30,35,35,35,Renta temporaria
+3,20,20,20,20,Servicios
+3,20,21,21,21,Internet / Multimedia
+3,20,23,23,23,Inform?tica
+3,20,25,25,25,Eventos
+3,20,26,26,26,Reparaci?n
+3,20,27,27,27,Salud y Belleza
+3,20,28,28,28,Traductor
+3,20,29,29,29,Otros Servicios
+3,36,36,36,36,Empleo
+3,36,38,38,38,Im?gen - Sonido
+3,36,39,39,39,Inform?tica - Multimedia
+3,36,40,40,40,Ingenieria
+3,36,41,41,41,Hosteler?a - Turismo
+3,36,42,42,42,Educaci?n - Formaci?n
+3,36,43,43,43,Direcci?n de Empresas
+3,36,44,44,44,Contabilidad - Finanzas
+3,36,45,45,45,Construcci?n - Mantenimiento
+3,36,46,46,46,Arte - Dise?o
+3,36,80,80,80,Medicina
+3,36,86,86,86,Administrativo Secretariado
+3,36,47,47,47,Otros
+3,48,48,48,48,Viajes - Turismo
+3,48,49,49,49,Promociones
+3,48,50,50,50,Destinos
+3,48,51,51,51,Salida Grupal
+3,48,84,84,84,Alojamiento temporario
+3,48,52,52,52,Gu?a de Turismo
+3,48,88,88,88,Hoteles y caba?as
+3,53,53,53,53,Clases - Talleres
+3,53,54,54,54,Idiomas
+3,53,55,55,55,M?sica - Teatro
+3,53,56,56,56,Inform?tica - Multimedia
+3,53,57,57,57,Talleres Literarios
+3,53,58,58,58,Otras Clases
+0,5,5,5,5,Cars and Vehicles
+0,5,8072,8072,8072,cars
+0,5,8075,8075,8075,car parts & accessories
+0,5,8073,8073,8073,campervans & caravans
+0,5,8144,8144,8144,vans, trucks & trailers
+0,5,8074,8074,8074,motorbikes & scooters
+0,5,8139,8139,8139,motorbike parts & accessories
+0,5,8141,8141,8141,boats & water sports
+0,5,8145,8145,8145,other vehicles
+0,2,2,2,2,Properties
+0,2,8000,8000,8000,flatshare / houseshare
+0,2,8002,8002,8002,short term
+0,2,8002,8003,8003,short term flatshare / houseshare
+0,2,8002,8004,8004,short term flat / house
+0,2,8005,8005,8005,flat / house for rent
+0,2,8009,8009,8009,home swap
+0,2,8010,8010,8010,parking / garage
+0,2,8011,8011,8011,office space / commercial
+0,2,8012,8012,8012,holiday houses
+0,2,8013,8013,8013,house / flat / plots of land for sale
+0,2,8151,8151,8151,other properties for sale
+0,8019,8019,8019,8019,Pets
+0,8019,8170,8170,8170,birds
+0,8019,8021,8021,8021,cats & kittens
+0,8019,8020,8020,8020,dogs & puppies
+0,8019,8171,8171,8171,fish
+0,8019,8164,8164,8164,horses & ponies
+0,8019,8165,8165,8165,livestock & poultry
+0,8019,8172,8172,8172,reptiles & amphibians
+0,8019,8022,8022,8022,other pets
+0,8019,8023,8023,8023,lost and found
+0,8019,8025,8025,8025,pet sitters & dog walkers
+0,8019,8024,8024,8024,pet supplies & pet products
+0,4,4,4,4,Stuff for Sale
+0,4,8044,8044,8044,tickets
+0,4,8047,8047,8047,clothes / accessories
+0,4,8047,8160,8160,women & men clothes
+0,4,8047,8161,8161,women & men shoes
+0,4,8047,8162,8162,accessories
+0,4,8047,8163,8163,wedding wear
+0,4,8167,8167,8167,jewellery / watches
+0,4,8048,8048,8048,kids / baby stuff
+0,4,8048,8152,8152,children clothes
+0,4,8048,8153,8153,children furniture
+0,4,8048,8154,8154,car seats & travel
+0,4,8048,8155,8155,prams / strollers
+0,4,8048,8156,8156,maternity & pregnancy
+0,4,8048,8157,8157,toys
+0,4,8048,8158,8158,children gear & safety
+0,4,8062,8062,8062,home & garden
+0,4,8062,8063,8063,beds & bedroom furniture
+0,4,8062,8064,8064,dining & living room furniture
+0,4,8062,8065,8065,gardening & patio furniture
+0,4,8062,8066,8066,kitchen appliances & accessories
+0,4,8062,8067,8067,other home appliances
+0,4,8062,8159,8159,DIY & tools
+0,4,8062,8068,8068,other
+0,4,8046,8046,8046,antiques / collectibles
+0,4,8070,8070,8070,office furniture & equipment
+0,4,8071,8071,8071,sports / leisure
+0,4,8049,8049,8049,computers / software
+0,4,8050,8050,8050,phones / mobiles
+0,4,8051,8051,8051,tv / dvd / vision / photo
+0,4,8052,8052,8052,audio / music / hi-fi
+0,4,8053,8053,8053,musical instruments
+0,4,8054,8054,8054,video games / consoles
+0,4,8055,8055,8055,games / books
+0,4,8056,8056,8056,cd / dvd / films
+0,4,8169,8169,8169,health / special needs
+0,4,8059,8059,8059,general
+0,6,6,6,6,Community
+0,6,8027,8027,8027,activities & hobbies
+0,6,8028,8028,8028,classes
+0,6,8140,8140,8140,events / gigs / nightlife
+0,6,8042,8042,8042,fitness / dance / health
+0,6,8036,8036,8036,lost and found
+0,6,8034,8034,8034,musicians / artists
+0,6,8037,8037,8037,rideshare
+0,6,8035,8035,8035,skills & language swap
+0,6,8033,8033,8033,sports / sports partners
+0,6,8038,8038,8038,travel / travel partners
+0,6,8039,8039,8039,thank you
+0,6,8043,8043,8043,other
+0,8,8,8,8,Jobs
+0,8,8094,8094,8094,accounting / finance
+0,8,8092,8092,8092,advertising / PR
+0,8,8101,8101,8101,bar / restaurant / hotel
+0,8,8110,8110,8110,call center / customer service
+0,8,8100,8100,8100,chefs / cooks / kitchen
+0,8,8148,8148,8148,cleaning
+0,8,8091,8091,8091,computing / IT
+0,8,8106,8106,8106,construction / trade / engineer
+0,8,8109,8109,8109,drivers / security
+0,8,8107,8107,8107,farming / gardening
+0,8,8097,8097,8097,hair / beauty
+0,8,8098,8098,8098,healthcare / nursing
+0,8,8093,8093,8093,legal / paralegal
+0,8,8113,8113,8113,media, design & creative
+0,8,8102,8102,8102,nanny / babysitting
+0,8,8095,8095,8095,office / office admin
+0,8,8108,8108,8108,part-time / evening / weekend
+0,8,8096,8096,8096,recruitment / HR
+0,8,8105,8105,8105,retail
+0,8,8104,8104,8104,sales / marketing
+0,8,8103,8103,8103,teaching / nursery
+0,8,8111,8111,8111,other jobs
+0,8,8115,8115,8115,resume
+0,9,9,9,9,Services
+0,9,8120,8120,8120,building services
+0,9,8133,8133,8133,cleaners, cleaning
+0,9,8121,8121,8121,computer & freelance
+0,9,8116,8116,8116,courses & training
+0,9,8125,8125,8125,entertainment
+0,9,8166,8166,8166,fitness & personal trainers
+0,9,8117,8117,8117,health & beauty
+0,9,8129,8129,8129,photography & video
+0,9,8126,8126,8126,property & shipping
+0,9,8132,8132,8132,removals & storage
+0,9,8119,8119,8119,tax, insurance & financial
+0,9,8127,8127,8127,travel agents / vacations
+0,9,8149,8149,8149,wedding & venues
+0,9,8124,8124,8124,other

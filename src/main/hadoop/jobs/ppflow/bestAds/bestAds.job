@@ -1,0 +1,7 @@
+# bestAds.job
+#
+# This job executes calculates top 100 view ads under
+# each L1 category. The input data range is across last 7 days.
+#
+type=command
+command=${deploydir}/bin/bestAds/bestAds.sh -b 7 -a 1 -d ${deploydir} -i ${bestads_inputdir} -o ${bestads_outputdir} -r ${bestads_refdir}

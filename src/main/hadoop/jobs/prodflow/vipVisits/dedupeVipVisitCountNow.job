@@ -1,0 +1,8 @@
+# dedupeVipVisitCount.job
+#
+# Removes duplicate aggregated phone click counts 
+# between two dates.
+#
+type=command
+dependencies=vipVisitCountNow
+command=${deploydir}/bin/vipVisits/dedupeVipVisitCount.sh -a 0 -d ${deploydir} -i ${vipvisits_outputdir} -o ${vipvisits_delta_outputdir}

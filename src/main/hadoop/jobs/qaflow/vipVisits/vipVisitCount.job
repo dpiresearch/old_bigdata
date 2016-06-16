@@ -1,0 +1,4 @@
+# vipVisitCount.job
+type=command
+#dependencies=ingestLogs
+command=ssh ${username}@${deployhost} '${deploydir}/bin/vipVisits/vipVisitCount.sh -d ${deploydir} -i ${vipvisits_inputdir} -v ${vipvisits_viewadfile} -o ${vipvisits_outputdir}'

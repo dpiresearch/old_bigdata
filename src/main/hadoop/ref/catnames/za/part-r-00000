@@ -1,0 +1,452 @@
+9070	Property	Holiday Homes	Holiday Homes	Holiday Homes
+9071	Property	Houses & Flats For Rent	Houses & Flats For Rent	Houses & Flats For Rent
+9072	Property	Commercial Properties	Commercial Properties	Commercial Properties
+9241	Property	Commercial Properties	Industrial Property	Industrial Property
+9240	Property	Commercial Properties	Retail Space	Retail Space
+9239	Property	Commercial Properties	Office Space	Office Space
+9073	Property	Car Parks & Storage	Car Parks & Storage	Car Parks & Storage
+9074	Property	Houses & Flats For Sale	Houses & Flats For Sale	Houses & Flats For Sale
+2	Property	Property	Property	Property
+9000	Property	Flat Share & House Share	Flat Share & House Share	Flat Share & House Share
+9001	Property	Short Term	Short Term	Short Term
+9137	Property	Land & Plots For Sale	Land & Plots For Sale	Land & Plots For Sale
+9008	Property	Other Property	Other Property	Other Property
+9210	Automotive Vehicles	Auto Parts & Accessories	Accessories & Styling	Accessories & Styling
+9026	Automotive Vehicles	Auto Parts & Accessories	Auto Parts & Accessories	Auto Parts & Accessories
+9211	Automotive Vehicles	Auto Parts & Accessories	Car Audio & GPS	Car Audio & GPS
+9214	Automotive Vehicles	Auto Parts & Accessories	Utility Trailers	Utility Trailers
+9213	Automotive Vehicles	Auto Parts & Accessories	Tyres & Rims	Tyres & Rims
+9027	Automotive Vehicles	Motorcycles & Scooters	Motorcycles & Scooters	Motorcycles & Scooters
+9028	Automotive Vehicles	Caravan & RVs	Caravan & RVs	Caravan & RVs
+9216	Automotive Vehicles	Motorcycle Parts & Accessories	Accessories & Styling	Accessories & Styling
+9217	Automotive Vehicles	Motorcycle Parts & Accessories	Helmets	Helmets
+9218	Automotive Vehicles	Motorcycle Parts & Accessories	Replacement Parts	Replacement Parts
+9219	Automotive Vehicles	Motorcycle Parts & Accessories	Tyres & Rims	Tyres & Rims
+9077	Automotive Vehicles	Cars	Cars	Cars
+5	Automotive Vehicles	Automotive Vehicles	Automotive Vehicles	Automotive Vehicles
+9136	Automotive Vehicles	Bakkies & Cargo Vans	Bakkies & Cargo Vans	Bakkies & Cargo Vans
+9135	Automotive Vehicles	Farm Vehicles & Equipment	Farm Vehicles & Equipment	Farm Vehicles & Equipment
+9134	Automotive Vehicles	Heavy trucks & machinery	Machinery	Machinery
+9133	Automotive Vehicles	Heavy trucks & machinery	Heavy Trucks & Buses	Heavy Trucks & Buses
+9132	Automotive Vehicles	Heavy trucks & machinery	Heavy trucks & machinery	Heavy trucks & machinery
+9215	Automotive Vehicles	Motorcycle Parts & Accessories	Motorcycle Parts & Accessories	Motorcycle Parts & Accessories
+9212	Automotive Vehicles	Auto Parts & Accessories	Replacement Parts	Replacement Parts
+9035	Community	Carpool & Rideshare	Carpool & Rideshare	Carpool & Rideshare
+9036	Community	Language Courses & Training	Language Courses & Training	Language Courses & Training
+9037	Community	Sports & Sports Partners	Sports & Sports Partners	Sports & Sports Partners
+9038	Community	Travel Partners & Companions	Travel Partners & Companions	Travel Partners & Companions
+9039	Community	Other	Other	Other
+6	Community	Community	Community	Community
+9130	Community	Missed Connections	Missed Connections	Missed Connections
+9030	Community	Activities & Hobbies	Activities & Hobbies	Activities & Hobbies
+9031	Community	Classes & Adult Education	Classes & Adult Education	Classes & Adult Education
+9032	Community	Lost & Found	Lost & Found	Lost & Found
+9033	Community	Musicians & Artists	Musicians & Artists	Musicians & Artists
+9546	Jobs	Logistics & Transportation jobs	Logistics & Transportation jobs	Logistics & Transportation jobs
+8	Jobs	Jobs	Jobs	Jobs
+9005	Jobs	Accounting & Finance jobs	Accounting & Finance jobs	Accounting & Finance jobs
+9246	Jobs	Restaurant & Bar jobs	Kitchen staff	Kitchen staff
+9245	Jobs	Restaurant & Bar jobs	Bartenders	Bartenders
+9244	Jobs	Restaurant & Bar jobs	Waiters & waitresses	Waiters & waitresses
+9243	Jobs	Restaurant & Bar jobs	Chefs & cooks	Chefs & cooks
+9309	Jobs	Restaurant & Bar jobs	Management	Management
+9048	Jobs	Restaurant & Bar jobs	Restaurant & Bar jobs	Restaurant & Bar jobs
+9247	Jobs	Computing & IT jobs	Developers	Developers
+9050	Jobs	Computing & IT jobs	Computing & IT jobs	Computing & IT jobs
+9251	Jobs	Computing & IT jobs	Web Designers	Web Designers
+9250	Jobs	Computing & IT jobs	Computer Operators	Computer Operators
+9249	Jobs	Computing & IT jobs	Graphic Designers	Graphic Designers
+9248	Jobs	Computing & IT jobs	Online Marketing	Online Marketing
+9052	Jobs	Construction & Skilled trade jobs	Construction & Skilled trade jobs	Construction & Skilled trade jobs
+9053	Jobs	General jobs	General jobs	General jobs
+9054	Jobs	Healthcare & Nursing jobs	Healthcare & Nursing jobs	Healthcare & Nursing jobs
+9260	Jobs	Legal jobs	Debt Recovery	Debt Recovery
+9055	Jobs	Legal jobs	Legal jobs	Legal jobs
+9261	Jobs	Legal jobs	Paralegal	Paralegal
+9259	Jobs	Legal jobs	Legal Secretary	Legal Secretary
+9056	Jobs	Childcare & Babysitting jobs	Childcare & Babysitting jobs	Childcare & Babysitting jobs
+9057	Jobs	Office jobs	Office jobs	Office jobs
+9058	Jobs	Part-time & Weekend jobs	Part-time & Weekend jobs	Part-time & Weekend jobs
+9059	Jobs	Retail jobs	Retail jobs	Retail jobs
+9060	Jobs	Sales & Telemarketing jobs	Sales & Telemarketing jobs	Sales & Telemarketing jobs
+9061	Jobs	Teaching jobs	Teaching jobs	Teaching jobs
+9083	Jobs	Farming & Veterinary jobs	Farming & Veterinary jobs	Farming & Veterinary jobs
+9084	Jobs	Gardening & Landscaping jobs	Gardening & Landscaping jobs	Gardening & Landscaping jobs
+9085	Jobs	Housekeeping & Cleaning jobs	Housekeeping & Cleaning jobs	Housekeeping & Cleaning jobs
+9087	Jobs	Sports Club jobs	Sports Club jobs	Sports Club jobs
+9234	Jobs	Security jobs	Security jobs	Security jobs
+9236	Jobs	Customer Service jobs	Customer Service jobs	Customer Service jobs
+9237	Jobs	Manual Labour jobs	Manual Labour jobs	Manual Labour jobs
+9238	Jobs	Travel & Tourism jobs	Travel & Tourism jobs	Travel & Tourism jobs
+9242	Jobs	Banking jobs	Banking jobs	Banking jobs
+9252	Jobs	Hotel Jobs	Hotel Jobs	Hotel Jobs
+9253	Jobs	Advertising & Marketing jobs	Advertising & Marketing jobs	Advertising & Marketing jobs
+9254	Jobs	Clerical & Administrative jobs	Clerical & Administrative jobs	Clerical & Administrative jobs
+9255	Jobs	Arts & Entertainment jobs	Arts & Entertainment jobs	Arts & Entertainment jobs
+9256	Jobs	Engineering & Architecture jobs	Engineering & Architecture jobs	Engineering & Architecture jobs
+9258	Jobs	Human Resources jobs	Human Resources jobs	Human Resources jobs
+9262	Jobs	Internship jobs	Internship jobs	Internship jobs
+9263	Jobs	Manufacturing Jobs	Manufacturing Jobs	Manufacturing Jobs
+9264	Jobs	Mining Industry jobs	Mining Industry jobs	Mining Industry jobs
+9543	Jobs	Health & Beauty jobs	Health & Beauty jobs	Health & Beauty jobs
+9	Services	Services	Services	Services
+9063	Services	Building & Trades	Building & Trades	Building & Trades
+9064	Services	Computer & IT Services	Computer & IT Services	Computer & IT Services
+9065	Services	Health & Beauty services	Health & Beauty services	Health & Beauty services
+9066	Services	Other services	Other services	Other services
+9109	Services	Cleaning Services	Cleaning Services	Cleaning Services
+9139	Services	Pet Services	Pet Services	Pet Services
+9131	Services	Automotive Services	Automotive Services	Automotive Services
+9121	Services	Chauffeur & Airport transfer	Chauffeur & Airport transfer	Chauffeur & Airport transfer
+9120	Services	Wedding Venues & services	Wedding Venues & services	Wedding Venues & services
+9119	Services	Travel Agents & Tours	Travel Agents & Tours	Travel Agents & Tours
+9118	Services	Tax & Financial services	Tax & Financial services	Tax & Financial services
+9117	Services	Removals & Storage	Removals & Storage	Removals & Storage
+9116	Services	Recruitment services	Recruitment services	Recruitment services
+9115	Services	Photography & Video services	Photography & Video services	Photography & Video services
+9114	Services	Party & Catering	Party & Catering	Party & Catering
+9113	Services	Courses & Training	Courses & Training	Courses & Training
+9112	Services	Landscaping & Gardening services	Landscaping & Gardening services	Landscaping & Gardening services
+9111	Services	Fitness & Personal Training services	Fitness & Personal Training services	Fitness & Personal Training services
+9388	Services	Legal Services	Legal Services	Legal Services
+9269	Services	DJ & Entertainment services	DJ & Entertainment services	DJ & Entertainment services
+9268	Services	Event Services	Other Event Services	Other Event Services
+9267	Services	Event Services	Furnishing & Decoration	Furnishing & Decoration
+9266	Services	Event Services	Catering	Catering
+9265	Services	Event Services	Event Services	Event Services
+9545	Services	Child Care & Education Services	Child Care & Education Services	Child Care & Education Services
+9542	Services	Manufacturing	Manufacturing	Manufacturing
+9223	Services	Real estate services	Real estate services	Real estate services
+9233	Events	Other	Other	Other
+9170	Events	Flea Market & Jumble Sale	Flea Market & Jumble Sale	Flea Market & Jumble Sale
+9067	Events	Events	Events	Events
+9068	Events	Events	Events	Events
+9220	Boats & Watercraft	Kayaks & Paddle Boats	Kayaks & Paddle Boats	Kayaks & Paddle Boats
+9105	Boats & Watercraft	Other Watercraft	Other Watercraft	Other Watercraft
+9104	Boats & Watercraft	Boat Parts & Accessories	Boat Parts & Accessories	Boat Parts & Accessories
+9103	Boats & Watercraft	Yachts & Sailboats	Yachts & Sailboats	Yachts & Sailboats
+9102	Boats & Watercraft	Boats & Jet Skis	Boats & Jet Skis	Boats & Jet Skis
+9101	Boats & Watercraft	Boats & Watercraft	Boats & Watercraft	Boats & Watercraft
+9125	Pets	Other Pets	Other Pets	Other Pets
+9142	Pets	Livestock & Poultry	Cattle	Cattle
+9145	Pets	Livestock & Poultry	Pigs	Pigs
+9144	Pets	Livestock & Poultry	Poultry	Poultry
+9143	Pets	Livestock & Poultry	Sheep & Goats	Sheep & Goats
+9140	Pets	Livestock & Poultry	Livestock & Poultry	Livestock & Poultry
+9141	Pets	Horses & Ponies	Horses & Ponies	Horses & Ponies
+9222	Pets	Birds	Birds	Birds
+9224	Pets	Fish	Fish	Fish
+9225	Pets	Reptiles	Reptiles	Reptiles
+9226	Pets	Pet Accessories	Pet Accessories	Pet Accessories
+9122	Pets	Pets	Pets	Pets
+9123	Pets	Dogs & Puppies	Dogs & Puppies	Dogs & Puppies
+9124	Pets	Cats & Kittens	Cats & Kittens	Cats & Kittens
+9171	Business-to-Business	Business-to-Business	Business-to-Business	Business-to-Business
+9172	Business-to-Business	Businesses For Sale	Businesses For Sale	Businesses For Sale
+9173	Business-to-Business	Office Equipment & Furniture	Office Equipment & Furniture	Office Equipment & Furniture
+9221	Business-to-Business	Industrial Machinery	Industrial Machinery	Industrial Machinery
+9174	Business-to-Business	Store & Catering Equipment	Store & Catering Equipment	Store & Catering Equipment
+9231	Business-to-Business	Other	Other	Other
+9292	Home & Garden	Home decor & interiors	Mirrors	Mirrors
+9299	Home & Garden	Home appliances	Sewing Machines	Sewing Machines
+9298	Home & Garden	Home appliances	Microwaves	Microwaves
+9305	Home & Garden	Home appliances	Refrigerators & Freezers	Refrigerators & Freezers
+9304	Home & Garden	Home appliances	Other Home Appliances	Other Home Appliances
+9303	Home & Garden	Home appliances	Coffee makers	Coffee makers
+9302	Home & Garden	Home appliances	Vacuum Cleaners	Vacuum Cleaners
+9301	Home & Garden	Home appliances	Washing Machines	Washing Machines
+9300	Home & Garden	Home appliances	Water Heaters & Purifiers	Water Heaters & Purifiers
+9296	Home & Garden	Home appliances	Stoves & Ovens	Stoves & Ovens
+9297	Home & Garden	Home appliances	Dishwashers	Dishwashers
+9184	Home & Garden	Home appliances	Home appliances	Home appliances
+9308	Home & Garden	DIY & Tools	Hand Tools	Hand Tools
+9306	Home & Garden	DIY & Tools	Construction Materials	Construction Materials
+9307	Home & Garden	DIY & Tools	Power Tools	Power Tools
+9185	Home & Garden	DIY & Tools	DIY & Tools	DIY & Tools
+9289	Home & Garden	Home decor & interiors	Bathroom Fixtures and Supplies	Bathroom Fixtures and Supplies
+9291	Home & Garden	Home decor & interiors	Clocks	Clocks
+9183	Home & Garden	Home decor & interiors	Home decor & interiors	Home decor & interiors
+9286	Home & Garden	Garden & Braai	Garden Tools	Garden Tools
+9182	Home & Garden	Garden & Braai	Garden & Braai	Garden & Braai
+9283	Home & Garden	Garden & Braai	Garden Furniture	Garden Furniture
+9284	Home & Garden	Garden & Braai	Braai & Accessories	Braai & Accessories
+9285	Home & Garden	Garden & Braai	Garden Decorations & Plants	Garden Decorations & Plants
+9281	Home & Garden	Furniture	Furniture Sets	Furniture Sets
+9280	Home & Garden	Furniture	Wall Units	Wall Units
+9228	Home & Garden	Other	Other	Other
+9279	Home & Garden	Furniture	Couches	Couches
+9278	Home & Garden	Furniture	Other Furniture	Other Furniture
+9277	Home & Garden	Furniture	Sofa Beds	Sofa Beds
+9276	Home & Garden	Furniture	Desks	Desks
+9275	Home & Garden	Furniture	Cabinets	Cabinets
+9274	Home & Garden	Furniture	Chairs	Chairs
+9273	Home & Garden	Furniture	Bookshelves	Bookshelves
+9272	Home & Garden	Furniture	Beds	Beds
+9181	Home & Garden	Furniture	Furniture	Furniture
+9282	Home & Garden	Furniture	Tables	Tables
+9180	Home & Garden	Antiques & Collectibles	Antiques & Collectibles	Antiques & Collectibles
+9175	Home & Garden	Home & Garden	Home & Garden	Home & Garden
+9290	Home & Garden	Home decor & interiors	Lamps & Lights	Lamps & Lights
+9287	Home & Garden	Home decor & interiors	Curtains & Blinds	Curtains & Blinds
+9288	Home & Garden	Home decor & interiors	Carpets	Carpets
+9295	Home & Garden	Home decor & interiors	Other Home Decor Items	Other Home Decor Items
+9294	Home & Garden	Home decor & interiors	Kitchen Cabinets & Modulars	Kitchen Cabinets & Modulars
+9293	Home & Garden	Home decor & interiors	Paintings & Decorations	Paintings & Decorations
+9355	Baby & Kids	Children's Clothing	Dresses	Dresses
+9354	Baby & Kids	Children's Clothing	Bodysuits	Bodysuits
+9353	Baby & Kids	Children's Clothing	Shoes	Shoes
+9358	Baby & Kids	Children's Clothing	Tops	Tops
+9375	Baby & Kids	Toys	Gyms	Gyms
+9376	Baby & Kids	Toys	Bouncers	Bouncers
+9377	Baby & Kids	Toys	Walkers	Walkers
+9378	Baby & Kids	Toys	Swings	Swings
+9386	Baby & Kids	Toys	Other	Other
+9192	Baby & Kids	Toys	Toys	Toys
+9191	Baby & Kids	Maternity & Pregnancy	Maternity & Pregnancy	Maternity & Pregnancy
+9190	Baby & Kids	Children's Gear & Safety	Children's Gear & Safety	Children's Gear & Safety
+9370	Baby & Kids	Children's Gear & Safety	Other	Other
+9368	Baby & Kids	Children's Gear & Safety	Baby Monitors	Baby Monitors
+9369	Baby & Kids	Children's Gear & Safety	Gates	Gates
+9189	Baby & Kids	Prams & Strollers	Prams & Strollers	Prams & Strollers
+9373	Baby & Kids	Car Seats & Travel	Car Seats	Car Seats
+9372	Baby & Kids	Car Seats & Travel	Carriers	Carriers
+9371	Baby & Kids	Car Seats & Travel	Boosters	Boosters
+9387	Baby & Kids	Car Seats & Travel	Travel Accessories	Travel Accessories
+9188	Baby & Kids	Car Seats & Travel	Car Seats & Travel	Car Seats & Travel
+9362	Baby & Kids	Children's Furniture	Chairs	Chairs
+9365	Baby & Kids	Children's Furniture	Cribs	Cribs
+9367	Baby & Kids	Children's Furniture	Other	Other
+9361	Baby & Kids	Children's Furniture	Beds	Beds
+9187	Baby & Kids	Children's Furniture	Children's Furniture	Children's Furniture
+9364	Baby & Kids	Children's Furniture	Cots	Cots
+9366	Baby & Kids	Children's Furniture	Rockers	Rockers
+9363	Baby & Kids	Children's Furniture	Changing Tables	Changing Tables
+9360	Baby & Kids	Children's Clothing	Other	Other
+9186	Baby & Kids	Children's Clothing	Children's Clothing	Children's Clothing
+9359	Baby & Kids	Children's Clothing	Jackets	Jackets
+9176	Baby & Kids	Baby & Kids	Baby & Kids	Baby & Kids
+9380	Baby & Kids	Nursery	Nursery	Nursery
+9381	Baby & Kids	Nursery	Bed Sets	Bed Sets
+9382	Baby & Kids	Nursery	Decorations	Decorations
+9383	Baby & Kids	Nursery	Pillows	Pillows
+9384	Baby & Kids	Nursery	Quilts & Duvets	Quilts & Duvets
+9385	Baby & Kids	Nursery	Accessories	Accessories
+9357	Baby & Kids	Children's Clothing	Pants	Pants
+9356	Baby & Kids	Children's Clothing	Sleepwear	Sleepwear
+9230	Baby & Kids	Other	Other	Other
+9327	Fashion	Clothing	Men's Clothing	??Shorts
+9322	Fashion	Clothing	Men's Clothing	??Coats
+9323	Fashion	Clothing	Men's Clothing	??Jackets
+9310	Fashion	Clothing	Men's Clothing	Men's Clothing
+9324	Fashion	Clothing	Men's Clothing	??Jeans
+9326	Fashion	Clothing	Men's Clothing	??Shirts
+9328	Fashion	Clothing	Men's Clothing	??Suits
+9329	Fashion	Clothing	Men's Clothing	??T-Shirts
+9330	Fashion	Clothing	Men's Clothing	Other
+9325	Fashion	Clothing	Men's Clothing	??Pants
+9316	Fashion	Clothing	Women's Clothing	??Pants
+9311	Fashion	Clothing	Women's Clothing	Women's Clothing
+9312	Fashion	Clothing	Women's Clothing	??Coats
+9313	Fashion	Clothing	Women's Clothing	??Dresses
+9314	Fashion	Clothing	Women's Clothing	??Jackets
+9315	Fashion	Clothing	Women's Clothing	??Jeans
+9321	Fashion	Clothing	Women's Clothing	Other
+9320	Fashion	Clothing	Women's Clothing	??Tees
+9319	Fashion	Clothing	Women's Clothing	??Swimwear
+9318	Fashion	Clothing	Women's Clothing	??Skirts
+9317	Fashion	Clothing	Women's Clothing	??Sarees
+9194	Fashion	Shoes	Shoes	Shoes
+9332	Fashion	Shoes	Men's Shoes	Men's Shoes
+9341	Fashion	Shoes	Men's Shoes	Casual
+9340	Fashion	Shoes	Men's Shoes	Formal
+9342	Fashion	Shoes	Men's Shoes	Sandals
+9339	Fashion	Shoes	Men's Shoes	Sneakers
+9338	Fashion	Shoes	Men's Shoes	Boots
+9336	Fashion	Shoes	Women's Shoes	Sneakers
+9335	Fashion	Shoes	Women's Shoes	Sandals
+9333	Fashion	Shoes	Women's Shoes	Heels
+9337	Fashion	Shoes	Women's Shoes	Flats
+9331	Fashion	Shoes	Women's Shoes	Women's Shoes
+9343	Fashion	Accessories	Bags	Bags
+9195	Fashion	Accessories	Accessories	Accessories
+9344	Fashion	Accessories	Sunglasses	Sunglasses
+9348	Fashion	Accessories	Other	Other
+9347	Fashion	Accessories	Belts	Belts
+9346	Fashion	Accessories	Scarves	Scarves
+9345	Fashion	Accessories	Hats	Hats
+9196	Fashion	Wedding Wear	Wedding Wear	Wedding Wear
+9350	Fashion	Jewellery & Watches	Women's Watches	Women's Watches
+9351	Fashion	Jewellery & Watches	Men's Jewellery	Men's Jewellery
+9352	Fashion	Jewellery & Watches	Men's Watches	Men's Watches
+9349	Fashion	Jewellery & Watches	Women's Jewellery	Women's Jewellery
+9197	Fashion	Jewellery & Watches	Jewellery & Watches	Jewellery & Watches
+9193	Fashion	Clothing	Clothing	Clothing
+9229	Fashion	Other	Other	Other
+9334	Fashion	Shoes	Women's Shoes	Boots
+9177	Fashion	Fashion	Fashion	Fashion
+9455	Electronics	Computers	PC Laptops	Sony
+9456	Electronics	Computers	PC Laptops	Other
+9461	Electronics	Computers	Tablets & Ipads	Samsung
+9439	Electronics	Computers	Tablets & Ipads	Tablets & Ipads
+9458	Electronics	Computers	Tablets & Ipads	Ipads
+9459	Electronics	Computers	Tablets & Ipads	Acer
+9460	Electronics	Computers	Tablets & Ipads	Asus
+9462	Electronics	Computers	Tablets & Ipads	Other
+9463	Electronics	Computers	Tablets & Ipads	Tablet Accessories
+9469	Electronics	Computers	Computer Accessories	Other
+9464	Electronics	Computers	Computer Accessories	Computer Accessories
+9468	Electronics	Computers	Computer Accessories	Gaming Accessories
+9466	Electronics	Computers	Computer Accessories	Headsets
+9486	Electronics	Computers	Computer Accessories	Laptop Batteries
+9485	Electronics	Computers	Computer Accessories	Laptop Cases
+9467	Electronics	Computers	Computer Accessories	Speakers
+9474	Electronics	Computers	Computer Components	Sound Cards
+9470	Electronics	Computers	Computer Components	Computer Components
+9471	Electronics	Computers	Computer Components	??Graphic Cards
+9472	Electronics	Computers	Computer Components	??Keyboards & Mice
+9476	Electronics	Computers	Computer Components	Memory & Hard drives
+9473	Electronics	Computers	Computer Components	??Motherboards
+9477	Electronics	Computers	Computer Components	Modems & Routers
+9475	Electronics	Computers	Computer Components	Other
+9478	Electronics	Computers	Monitors	Monitors
+9483	Electronics	Computers	Printers & Ink	Accessories
+9499	Electronics	Cameras & Video Cameras	Other	Other
+9498	Electronics	Cameras & Video Cameras	Camera accessories	Camera accessories
+9497	Electronics	Cameras & Video Cameras	Lenses	Lenses
+9496	Electronics	Cameras & Video Cameras	Vintage Cameras	Vintage Cameras
+9495	Electronics	Cameras & Video Cameras	Video Cameras	Video Cameras
+9494	Electronics	Cameras & Video Cameras	SLR Cameras	SLR Cameras
+9493	Electronics	Cameras & Video Cameras	Digital Camera	Digital Camera
+9200	Electronics	Cameras & Video Cameras	Cameras & Video Cameras	Cameras & Video Cameras
+9504	Electronics	Video Games & Consoles	Game Boy	Acessories
+9510	Electronics	Video Games & Consoles	Playstation	Consoles
+9419	Electronics	Mobile Phones & Telephones	Mobile phones	Mobile phones
+9520	Electronics	Video Games & Consoles	Other	Other
+9516	Electronics	Video Games & Consoles	Xbox	Xbox
+9517	Electronics	Video Games & Consoles	Xbox	Consoles
+9518	Electronics	Video Games & Consoles	Xbox	Games
+9519	Electronics	Video Games & Consoles	Xbox	Acessories
+9515	Electronics	Video Games & Consoles	Wii & WiiU	Acessories
+9509	Electronics	Video Games & Consoles	Wii & WiiU	Wii & WiiU
+9513	Electronics	Video Games & Consoles	Wii & WiiU	Consoles
+9514	Electronics	Video Games & Consoles	Wii & WiiU	Games
+9512	Electronics	Video Games & Consoles	Playstation	Acessories
+9505	Electronics	Video Games & Consoles	Playstation	Playstation
+9511	Electronics	Video Games & Consoles	Playstation	Games
+9506	Electronics	Video Games & Consoles	Nintendo DS	Consoles
+9501	Electronics	Video Games & Consoles	Nintendo DS	Nintendo DS
+9508	Electronics	Video Games & Consoles	Nintendo DS	Accessories
+9507	Electronics	Video Games & Consoles	Nintendo DS	Games
+9500	Electronics	Video Games & Consoles	Game Boy	Game Boy
+9502	Electronics	Video Games & Consoles	Game Boy	Consoles
+9503	Electronics	Video Games & Consoles	Game Boy	Games
+9527	Electronics	TV & DVD Equipment	TVs	3D
+9529	Electronics	TV & DVD Equipment	TVs	Other & Acessories
+9202	Electronics	TV & DVD Equipment	TV & DVD Equipment	TV & DVD Equipment
+9522	Electronics	TV & DVD Equipment	BluRay & DVD players	BluRay & DVD players
+9526	Electronics	TV & DVD Equipment	TVs	Plasma
+9528	Electronics	TV & DVD Equipment	TVs	Tube TVs
+9523	Electronics	TV & DVD Equipment	Projectors	Projectors
+9521	Electronics	TV & DVD Equipment	TVs	TVs
+9524	Electronics	TV & DVD Equipment	TVs	LCD
+9525	Electronics	TV & DVD Equipment	TVs	LED
+9540	Electronics	Audio & Music Equipment	Amplifiers	Amplifiers
+9203	Electronics	Audio & Music Equipment	Audio & Music Equipment	Audio & Music Equipment
+9530	Electronics	Audio & Music Equipment	HiFi Systems	HiFi Systems
+9541	Electronics	Audio & Music Equipment	Acessories	Acessories
+9531	Electronics	Audio & Music Equipment	CD Players	CD Players
+9534	Electronics	Audio & Music Equipment	Receivers	Receivers
+9538	Electronics	Audio & Music Equipment	Other	Other
+9537	Electronics	Audio & Music Equipment	Microphones	Microphones
+9536	Electronics	Audio & Music Equipment	Turntables	Turntables
+9533	Electronics	Audio & Music Equipment	Home Theaters	Home Theaters
+9532	Electronics	Audio & Music Equipment	MP3 players and Ipods	MP3 players and Ipods
+9535	Electronics	Audio & Music Equipment	Speakers	Speakers
+9539	Electronics	Audio & Music Equipment	Mixers	Mixers
+9457	Electronics	Computers	PC Laptops	Toshiba
+9451	Electronics	Computers	PC Laptops	Asus
+9438	Electronics	Computers	PC Laptops	PC Laptops
+9450	Electronics	Computers	PC Laptops	Acer
+9449	Electronics	Computers	Macs	Other
+9441	Electronics	Computers	Desktop PCs	Dell
+9227	Electronics	Other Electronics	Other Electronics	Other Electronics
+9423	Electronics	Mobile Phones & Telephones	Mobile phones	LG
+9484	Electronics	Computers	Macs	Apple Accessories
+9448	Electronics	Computers	Macs	Macbook Air
+9465	Electronics	Computers	Computer Accessories	Cables
+9447	Electronics	Computers	Macs	Macbook Pro
+9178	Electronics	Electronics	Electronics	Electronics
+9201	Electronics	Video Games & Consoles	Video Games & Consoles	Video Games & Consoles
+9437	Electronics	Computers	Macs	Macs
+9446	Electronics	Computers	Macs	IMac
+9436	Electronics	Computers	Desktop PCs	Desktop PCs
+9442	Electronics	Computers	Desktop PCs	HP- Compaq
+9443	Electronics	Computers	Desktop PCs	IBM
+9444	Electronics	Computers	Desktop PCs	Samsung
+9445	Electronics	Computers	Desktop PCs	Other
+9440	Electronics	Computers	Desktop PCs	Acer
+9479	Electronics	Computers	Printers & Ink	Printers & Ink
+9480	Electronics	Computers	Scanners	Scanners
+9487	Electronics	Computers	Software	Software
+9492	Electronics	Computers	Software	Other
+9491	Electronics	Computers	Software	Photoshop
+9488	Electronics	Computers	Software	Operating Systems
+9489	Electronics	Computers	Software	Microsoft Office
+9490	Electronics	Computers	Software	Mac Software
+9481	Electronics	Computers	Printers & Ink	Printers
+9199	Electronics	Computers	Computers	Computers
+9482	Electronics	Computers	Printers & Ink	Printer Ink
+9425	Electronics	Mobile Phones & Telephones	Mobile phones	Nokia
+9198	Electronics	Mobile Phones & Telephones	Mobile Phones & Telephones	Mobile Phones & Telephones
+9422	Electronics	Mobile Phones & Telephones	Mobile phones	HTC
+9435	Electronics	Mobile Phones & Telephones	Mobile phones	Mobile accessories
+9421	Electronics	Mobile Phones & Telephones	Mobile phones	BlackBerry
+9420	Electronics	Mobile Phones & Telephones	Mobile phones	Iphone
+9424	Electronics	Mobile Phones & Telephones	Mobile phones	Motorolla
+9426	Electronics	Mobile Phones & Telephones	Mobile phones	Samsung
+9427	Electronics	Mobile Phones & Telephones	Mobile phones	Sony Ericsson
+9428	Electronics	Mobile Phones & Telephones	Mobile phones	Other Mobile Phones
+9434	Electronics	Mobile Phones & Telephones	Other Phone Accessories	Other Phone Accessories
+9433	Electronics	Mobile Phones & Telephones	Landline Telephones	Landline Telephones
+9453	Electronics	Computers	PC Laptops	Dell
+9452	Electronics	Computers	PC Laptops	HP - Compaq
+9454	Electronics	Computers	PC Laptops	Samsung
+9204	Sports & Leisure	Sports	Sports	Sports
+9205	Sports & Leisure	Books & Games	Books & Games	Books & Games
+9206	Sports & Leisure	Musical Instruments	Musical Instruments	Musical Instruments
+9232	Sports & Leisure	Other	Other	Other
+9208	Sports & Leisure	Tickets	Tickets	Tickets
+9179	Sports & Leisure	Sports & Leisure	Sports & Leisure	Sports & Leisure
+9207	Sports & Leisure	CD & DVD	CD & DVD	CD & DVD
+9235	Sports & Leisure	Camping Gear	Camping Gear	Camping Gear
+9400	Job Seekers	Farming & Veterinary CVs	Farming & Veterinary CVs	Farming & Veterinary CVs
+9397	Job Seekers	Construction & Skilled trade CVs	Construction & Skilled trade CVs	Construction & Skilled trade CVs
+9401	Job Seekers	Gardening & Landscaping CVs	Gardening & Landscaping CVs	Gardening & Landscaping CVs
+9402	Job Seekers	Healthcare & Nursing CVs	Healthcare & Nursing CVs	Healthcare & Nursing CVs
+9403	Job Seekers	Hotel Work CVs	Hotel Work CVs	Hotel Work CVs
+9393	Job Seekers	Banking Work CVs	Banking Work CVs	Banking Work CVs
+9394	Job Seekers	Childcare & Babysitting CVs	Childcare & Babysitting CVs	Childcare & Babysitting CVs
+9404	Job Seekers	Housekeeping & Cleaning CVs	Housekeeping & Cleaning CVs	Housekeeping & Cleaning CVs
+9389	Job Seekers	Job Seekers	Job Seekers	Job Seekers
+9390	Job Seekers	Accounting & Finance jobs	Accounting & Finance jobs	Accounting & Finance jobs
+9405	Job Seekers	Human Resources CVs	Human Resources CVs	Human Resources CVs
+9391	Job Seekers	Advertising & Marketing CVs	Advertising & Marketing CVs	Advertising & Marketing CVs
+9392	Job Seekers	Arts & Entertainment CVs	Arts & Entertainment CVs	Arts & Entertainment CVs
+9396	Job Seekers	Computing & IT CVs	Computing & IT CVs	Computing & IT CVs
+9406	Job Seekers	Legal Work CVs	Legal Work CVs	Legal Work CVs
+9409	Job Seekers	Mining Industry CVs	Mining Industry CVs	Mining Industry CVs
+9410	Job Seekers	Office Work CVs	Office Work CVs	Office Work CVs
+9411	Job Seekers	Restaurant & Bar CVs	Restaurant & Bar CVs	Restaurant & Bar CVs
+9412	Job Seekers	Retail CVs	Retail CVs	Retail CVs
+9413	Job Seekers	Sales & Telemarketing CVs	Sales & Telemarketing CVs	Sales & Telemarketing CVs
+9414	Job Seekers	Security CVs	Security CVs	Security CVs
+9415	Job Seekers	Sports Club Work CVs	Sports Club Work CVs	Sports Club Work CVs
+9416	Job Seekers	Teaching CVs	Teaching CVs	Teaching CVs
+9417	Job Seekers	Travel & Tourism CVs	Travel & Tourism CVs	Travel & Tourism CVs
+9418	Job Seekers	General Worker CVs	General Worker CVs	General Worker CVs
+9407	Job Seekers	Manual Labour CVs	Manual Labour CVs	Manual Labour CVs
+9395	Job Seekers	Clerical & Administrative CVs	Clerical & Administrative CVs	Clerical & Administrative CVs
+9544	Job Seekers	Health & Beauty CVs	Health & Beauty CVs	Health & Beauty CVs
+9408	Job Seekers	Manufacturing CVs	Manufacturing CVs	Manufacturing CVs
+9398	Job Seekers	Customer Service CVs	Customer Service CVs	Customer Service CVs
+9399	Job Seekers	Engineering & Architecture CVs	Engineering & Architecture CVs	Engineering & Architecture CVs

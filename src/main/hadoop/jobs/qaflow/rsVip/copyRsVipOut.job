@@ -1,0 +1,8 @@
+# copyRsVipOut.job
+# This job copies the related search vip keywrods out of hdfs and puts it
+# in the batch pool to be processed by a batch job
+#
+type=command
+dependencies=sum_rs_vip_kw
+command=ssh ${username}@${deployhost} '${deploydir}/bin/rsVip/qaCopyRelatedSearchVipOut.sh -a 0 -i ${inputdir}/popular_search '
+

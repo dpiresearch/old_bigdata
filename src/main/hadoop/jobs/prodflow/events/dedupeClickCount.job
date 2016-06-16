@@ -1,0 +1,7 @@
+# dedupeClickCount.job
+#
+# Removes duplicate aggregated phone click counts 
+# between two dates.
+#
+type=command
+command=${deploydir}/bin/events/dedupeClickCount.sh -a 1 -d ${deploydir} -i ${phoneclick_outputdir} -o ${phoneclick_delta_outputdir}

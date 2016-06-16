@@ -1,0 +1,10 @@
+# copySearchStatsOut.job
+# This job copies the search count and num listings out of hdfs and puts it
+# in the batch pool to be processed by a batch job
+# TODO Parameterize
+#      deploy dir
+#      hdfs dir to retrieve data
+type=command
+dependencies=aggVip
+command=ssh ${username}@${deployhost} '${deploydir}/bin/aggVip/qaCopyAggVipResults.sh -a 0 -i ${agg_int_outputdir} '
+

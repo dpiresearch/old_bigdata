@@ -1,0 +1,3 @@
+# ingestLogs.job
+type=command
+command=${deploydir}/bin/prodDataIngestGen.sh -a 1 -o ${ingestdir} -s ${stagingdir} -n ${numhosts} -r ${roothost}

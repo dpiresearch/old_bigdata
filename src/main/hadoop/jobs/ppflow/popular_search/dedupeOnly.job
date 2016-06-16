@@ -1,0 +1,11 @@
+#
+# dedupeOnly.job
+#
+# Do dedupe only.  No dependencies or downstream processes
+#
+# This job kicks off the score summation shell script
+# for the previous day (GMT) for the dev data set
+#
+type=command
+command=${deploydir}/bin/dedupe/doDedupe.sh -a 1 -d ${deploydir} -o ${outputdir}/popular_search -i ${hdfs_ingest_dir}/search_results -p ${outputdir}/popular_search -t0
+

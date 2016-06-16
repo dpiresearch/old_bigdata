@@ -1,0 +1,4 @@
+# ingestLogs.job 
+type=command
+command=${deploydir}/bin/prodDataIngestGen.sh -n 10 -r web -s /media/home/dapang/data/stg -t /var/log/tomcat7multi/frontend -o /user/dapang/data/ingestsudo -u hadoop ${deploydir}/bin/prodDataIngest.sh
+

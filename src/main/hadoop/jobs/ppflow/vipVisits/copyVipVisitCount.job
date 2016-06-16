@@ -1,0 +1,5 @@
+# copyVipVisitCount.job
+type=command
+dependencies=vipVisitCount
+command=${pre_command} ${deploydir}/bin/prodCopyOutputToBatchServer.sh -a 1 -i ${vipvisits_outputdir} -f ${vipvisits_file} -u ${username}
+

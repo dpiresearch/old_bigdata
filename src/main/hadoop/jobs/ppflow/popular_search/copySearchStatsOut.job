@@ -1,0 +1,11 @@
+#
+# copySearchStatsOut.job
+#
+# This job copies the popularity scores, search count and num listings out of hdfs and puts it
+# in the batch pool to be processed by a batch job
+#
+type=command
+#dependencies=allSearchWords,sumSearchView
+dependencies=allSearchWords,dedupe
+command=${deploydir}/bin/prodCopyAllResults.sh -a 1 -i ${inputdir}/popular_search
+

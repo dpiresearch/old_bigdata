@@ -1,0 +1,4 @@
+# phoneClickCount.job
+type=command
+#dependencies=ingestLogs
+command=ssh ${username}@${deployhost} '${deploydir}/bin/events/phoneClickCount.sh -d ${deploydir} -i ${phoneclick_inputdir} -c ${phoneclick_oldclicks} -o ${phoneclick_outputdir}'

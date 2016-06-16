@@ -1,0 +1,5 @@
+# adEvents.job
+type=command
+dependencies=ingestAdEvents
+command=${deploydir}/bin/adEvent/adEvents.sh -d ${deploydir} -i ${ad_events_input_dir} -o ${ad_events_output_dir} -r ${refdir} -l ${locfile} -p ${dumpdate}
+

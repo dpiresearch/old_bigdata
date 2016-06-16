@@ -1,0 +1,9 @@
+#
+# blacklist.job
+#
+# This job kicks off blacklisting for popular search
+#
+
+type=command
+dependencies=dedupe
+command=${deploydir}/bin/blacklistSums.sh -a 1 -b 1 -i ${outputdir}/popular_search -o ${outputdir}/popular_search -d ${deploydir}

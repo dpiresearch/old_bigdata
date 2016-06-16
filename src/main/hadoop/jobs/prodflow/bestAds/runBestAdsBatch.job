@@ -1,0 +1,6 @@
+# runBestAdsBatch.job
+# This job kicks off the batch job which updates best_ad table
+
+type=command
+dependencies=copyBestAds
+command=curl ${bestads_batch_cmd}

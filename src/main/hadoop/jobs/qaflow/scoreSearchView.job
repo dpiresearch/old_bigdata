@@ -1,0 +1,5 @@
+# scoreSearchView.job
+type=command
+dependencies=searchview
+command=ssh ${username}@${deployhost} '${deploydir}/bin/calcDecay.sh -b 1 -a 0 -d ${deploydir} -r ${refdir}/ref -i  ${inputdir}/popular_search -o  ${outputdir}/popular_search'
+

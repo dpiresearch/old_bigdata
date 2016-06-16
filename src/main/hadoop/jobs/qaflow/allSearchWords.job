@@ -1,0 +1,11 @@
+# allSearchWords.job
+# This job kicks off the search count and number of listings shell script
+# for the previous day (GMT) for the dev data set
+# TODO Parameterize
+#      production hdfs directory
+#      deploy dir where scripts live
+#      ssh host, if applicable
+type=command
+dependencies=ingestLogs
+command=ssh ${username}@${deployhost} '${deploydir}/bin/allSearchWords.sh -b 1 -a 0 -d ${deploydir}/pig -o ${outputdir}/popular_search -i ${inputdir}/search_results'
+#command=echo "running search count"

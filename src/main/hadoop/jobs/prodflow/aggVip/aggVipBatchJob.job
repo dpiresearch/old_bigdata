@@ -1,0 +1,8 @@
+# aggVipBatchJob.job
+# This job kicks off the batch job that processes the aggregated vip hits
+# results and puts the results in the database
+
+type=command
+dependencies=copyAggVip
+command=curl ${run_aggvip_batch_cmd}
+

@@ -1,0 +1,7 @@
+# allSearchWords.job
+#
+# This job kicks off the search count and number of listings shell script
+# for the previous day (GMT) for the dev data set
+#
+type=command
+command=${deploydir}/bin/allSearchWords.sh -b 1 -a 1 -d ${deploydir}/pig -o ${outputdir}/popular_search -i ${hdfs_ingest_dir}/search_results

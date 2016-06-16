@@ -1,0 +1,12 @@
+# runPopularSearchScoreBatchJob.job
+# This job kicks off the batch job that processes the score file
+# and puts the results in the database
+# TODO parameterize domain name of curl for production
+
+type=command
+#dependencies=copyKeywordScoreOut
+dependencies=copySearchStatsOut
+#command=echo "Running batch job to populate keyword_search_stats table";wget "http://www.ibazar.com.staging.qa-bolt.com/batch/batch-api/start/keywordStatsJobRunner?sourceFile=keyword_search_sum.csv&sourceFolder=/tmp"
+#command=echo "Running batch job to populate keyword_search_stats table";curl "http://www.ibazar.com.staging.qa-bolt.com/batch/batch-api/start/keywordStatsJobRunner?sourceFile=keyword_search_sum.csv&sourceFolder=/tmp"
+command=curl http://www.ibazar.com.staging.qa-bolt.com/batch/batch-api/start/keywordStatsJobRunner?sourceFile=keyword_search_sum.csv&sourceFolder=/tmp
+

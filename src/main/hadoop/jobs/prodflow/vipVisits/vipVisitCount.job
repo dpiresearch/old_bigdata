@@ -1,0 +1,4 @@
+# vipVisitCount.job
+type=command
+dependencies=ingestSanityCheck
+command=${deploydir}/bin/vipVisits/vipVisitCount.sh -a 1 -d ${deploydir} -i ${vipvisits_inputdir} -v ${vipvisits_oldvisits} -o ${vipvisits_outputdir}

@@ -1,0 +1,6 @@
+# ingestLogs.job
+type=command
+#command=echo "Ingesting logs"
+command=ssh ${username}@${deployhost} "${deploydir}/bin/qatestDataIngest.sh -o ${bestads_ingestdir}"
+
+

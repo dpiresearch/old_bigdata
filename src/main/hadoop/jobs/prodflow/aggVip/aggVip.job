@@ -1,0 +1,4 @@
+# aggVip.job
+type=command
+command=${deploydir}/bin/aggVip/aggVip.sh -d ${deploydir} -i ${agginputdir} -o ${agg_int_outputdir}
+
